@@ -1,0 +1,7412 @@
+[
+  {
+    "id": 1,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Easy",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "বাংলা ভাষার উৎসমূল কোন ভাষা?",
+    "options": [
+      "আর্য ভাষা",
+      "সংস্কৃত মূল ভাষা",
+      "ইন্দো-ইউরোপীয় মূল ভাষা",
+      "গৌড়ীয় বঙ্গ ভাষা"
+    ],
+    "answer": 2,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 2,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "নিচের কোন বাক্যটি সাধু ভাষার উদাহরণ?",
+    "options": [
+      "আমি আজ বাড়ি যাব",
+      "আমি আজ সুস্থবোধ করিতেছি",
+      "আমি আজ বই মেলায় যাব",
+      "তাকে আমার খুব প্রয়োজন"
+    ],
+    "answer": 1,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 3,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "multiple",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "চলতি ভাষার বৈশিষ্ট্য হলো-",
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "i ও iii",
+      "i, ii ও iii"
+    ],
+    "answer": 0,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 4,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Easy",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "ভাষা কী?",
+    "options": [
+      "কণ্ঠের উচ্চারণ",
+      "উচ্চারণের প্রতীক",
+      "ভাব প্রকাশের মাধ্যম",
+      "ধ্বনির সমষ্টি"
+    ],
+    "answer": 2,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 5,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Easy",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "ভাষা বলতে কোনটি বোঝায়?",
+    "options": [
+      "অর্থবোধক ধ্বনি",
+      "অর্থহীন ধ্বনি",
+      "ইশারা-ইঙ্গিত",
+      "ছবি"
+    ],
+    "answer": 0,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 6,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "মানুষের উচ্চারিত অর্থবহ বহুজনবোধ্য ধ্বনি সমষ্টিকে কী বলা হয়?",
+    "options": [
+      "বর্ণমালা",
+      "শব্দ",
+      "পদ",
+      "ভাষা"
+    ],
+    "answer": 3,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 7,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "সমাজবদ্ধ মানুষের পারম্পরিক ভাব বিনিময়ের উন্নত মাধ্যম কোনটি?",
+    "options": [
+      "ইশারা",
+      "অঙ্গভঙ্গি",
+      "চিত্র",
+      "ভাষা"
+    ],
+    "answer": 3,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 8,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Easy",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "ভাষারীতির দিক থেকে বাংলা ভাষার কয়টি রূপ দেখা যায়?",
+    "options": [
+      "দুটি",
+      "তিনটি",
+      "চারটি",
+      "পাঁচটি"
+    ],
+    "answer": 0,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 9,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "ভাষা বিকাশের প্রাথমিক রূপ হিসেবে বিবেচ্য-",
+    "options": [
+      "ইশারা-ইঙ্গিত",
+      "উচ্চারণ",
+      "ধ্বনিগুচ্ছ",
+      "বর্ণমালা"
+    ],
+    "answer": 0,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 10,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Easy",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "ভাষার মূল উপাদান কোনটি?",
+    "options": [
+      "শব্দ",
+      "কথা",
+      "ধ্বনি",
+      "বাক্য"
+    ],
+    "answer": 2,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 11,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Easy",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "বাংলা ভাষায় কয় কোটি লোক কথা বলে?",
+    "options": [
+      "পনেরো কোটি",
+      "বিশ কোটি",
+      "পঁচিশ কোটি",
+      "তিরিশ কোটি"
+    ],
+    "answer": 3,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 12,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Hard",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "কোন ভাষা থেকে বাংলা ভাষার জন্ম হয়?",
+    "options": [
+      "পালি",
+      "হিন্দি",
+      "উড়িয়া",
+      "বঙ্গকামরূপী"
+    ],
+    "answer": 3,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 13,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "সাধু ও চলিত ভাষার পার্থক্য কোথায়?",
+    "options": [
+      "শুধু ক্রিয়াপদে",
+      "শুধু লেখায় ও বলায়",
+      "শুধু সর্বনামে",
+      "সবগুলোতেই"
+    ],
+    "answer": 3,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 14,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "কোন ভাষা পরিবর্তনশীল?",
+    "options": [
+      "উপভাষা",
+      "চলিত ভাষা",
+      "আঞ্চলিক ভাষা",
+      "সাধুভাষা"
+    ],
+    "answer": 1,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 15,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "বাগ্যন্ত্রের অংশ কোনটি?",
+    "options": [
+      "কর্ণ",
+      "নাসিকা",
+      "চক্ষু",
+      "আঙুল"
+    ],
+    "answer": 1,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 16,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Easy",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "কোনটির মাধ্যমে সম্পূর্ণরূপে মনের ভাব প্রকাশ করা যায়?",
+    "options": [
+      "ভাষা",
+      "ইশারা-ইঙ্গিত",
+      "অঙ্গভঙ্গি",
+      "নাচ ও চিত্র"
+    ],
+    "answer": 0,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 17,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "মানুষের অনুভূতি প্রকাশের সর্বোত্তম প্রক্রিয়া হচ্ছে-",
+    "options": [
+      "চিত্র",
+      "ধ্বনিগুচ্ছ",
+      "কণ্ঠধ্বনি",
+      "জিহ্বা"
+    ],
+    "answer": 2,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 18,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "multiple",
+    "difficulty": "Hard",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "ভাষার বৈশিষ্ট্য হচ্ছে-",
+    "options": [
+      "i",
+      "i ও ii",
+      "i ও iii",
+      "i, ii ও iii"
+    ],
+    "answer": 3,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 19,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Hard",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "ইউরোপের মধ্যভাগ হতে ইন্দো-ইউরোপীয় মূল ভাষা কত বছর আগে প্রচলিত ছিল?",
+    "options": [
+      "প্রায় তিন হাজার বছর",
+      "প্রায় পাঁচ হাজার বছর",
+      "প্রায় ছয় হাজার বছর",
+      "প্রায় সাত হাজার বছর"
+    ],
+    "answer": 1,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 20,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Hard",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "ড. মুহম্মদ শহীদুল্লাহর মতে কোন শতকে বাংলা ভাষার উদ্ভব হয়েছে?",
+    "options": [
+      "ষষ্ঠ",
+      "সপ্তম",
+      "অষ্টম",
+      "নবম"
+    ],
+    "answer": 1,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 21,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Hard",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "ড. সুনীতকুমার চট্টোপাধ্যায়ের মতে কত খ্রিস্টাব্দে বাংলা ভাষার উদ্ভব হয়েছে?",
+    "options": [
+      "৬৫০",
+      "৭৫০",
+      "৮৫০",
+      "৯৫০"
+    ],
+    "answer": 3,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 22,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "বাংলা ভাষার প্রাচীন লিখিত রূপ কোনটি?",
+    "options": [
+      "সাধু ভাষা",
+      "চলিত ভাষা",
+      "উপভাষা",
+      "আঞ্চলিক ভাষা"
+    ],
+    "answer": 0,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 23,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "ফোর্ট উইলিয়াম কলেজ কত খ্রিস্টাব্দে প্রতিষ্ঠিত হয়?",
+    "options": [
+      "১৭০০",
+      "১৭৫০",
+      "১৮০০",
+      "১৮৫০"
+    ],
+    "answer": 2,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 24,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "multiple",
+    "difficulty": "Hard",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "বাংলা গদ্যের প্রাথমিক পর্যায়ে তৎসম সাহিত্যিক গদ্যরীতি যাদের হাতে গড়ে ওঠে-",
+    "options": [
+      "i",
+      "i ও ii",
+      "i ও iii",
+      "i, ii ও iii"
+    ],
+    "answer": 3,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 25,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "‘সাধু ভাষা সমগ্র বঙ্গদেশের সম্পত্তি’-এ কথা কে বলেছেন?",
+    "options": [
+      "মুহম্মদ শহীদুল্লাহ",
+      "সুনীতিকুমার চট্টোপাধ্যায়",
+      "মুহম্মদ এনামুল হক",
+      "অক্ষয়কুমার দত্ত"
+    ],
+    "answer": 1,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 26,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "ফোর্ট উইলিয়াম কলেজ কোথায় প্রতিষ্ঠিত হয়?",
+    "options": [
+      "কলকাতায়",
+      "ঢাকায়",
+      "যাদবপুরে",
+      "মেদিনীপুরে"
+    ],
+    "answer": 0,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 27,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "বর্তমানে কোনটি একাধারে লেখার ও মুখের ভাষা?",
+    "options": [
+      "সাধু ভাষা",
+      "উপভাষা",
+      "চলিত ভাষা",
+      "আঞ্চলিক ভাষা"
+    ],
+    "answer": 2,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 28,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "কোন নদীর তীরবর্তী অঞ্চলকে কেন্দ্র করে আদর্শ কথ্য ভাষা গড়ে উঠেছিল?",
+    "options": [
+      "পদ্মা",
+      "ভাগীরথী",
+      "যমুনা",
+      "গঙ্গা"
+    ],
+    "answer": 1,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 29,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "কোন ভাষায় ক্রিয়াপদ ও সর্বনামের পূর্ণরূপ ব্যবহৃত হয়?",
+    "options": [
+      "সাধু ভাষা",
+      "চলিত ভাষা",
+      "উপভাষা",
+      "আঞ্চলিক ভাষা"
+    ],
+    "answer": 0,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 30,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "কোনটি সাধু ভাষারীতির ক্রিয়াপদের উদাহরণ?",
+    "options": [
+      "পড়ব",
+      "তাহাদের",
+      "করিয়াছি",
+      "পড়ছিলাম"
+    ],
+    "answer": 2,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 31,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "কোনটি সাধু ভাষারীতির সর্বনাম পদের উদাহরণ?",
+    "options": [
+      "এদের",
+      "এরা",
+      "করব",
+      "ইহাদের"
+    ],
+    "answer": 3,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 32,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "কোনটি চলিত ভাষারীতির ক্রিয়াপদের উদাহরণ?",
+    "options": [
+      "লিখেছি",
+      "পড়িতে থাকিব",
+      "করিয়াছি",
+      "লিখিয়াছি"
+    ],
+    "answer": 0,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 33,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "কোনটি চলিত ভাষারীতির সর্বনাম পদের উদাহরণ?",
+    "options": [
+      "ইহারা",
+      "খাবে",
+      "উহা",
+      "ওদের"
+    ],
+    "answer": 3,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 34,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "multiple",
+    "difficulty": "Hard",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "সাধু ভাষায় ব্যবহৃত শব্দগুচ্ছ হচ্ছে-",
+    "options": [
+      "i",
+      "i ও ii",
+      "i ও iii",
+      "i, ii ও iii"
+    ],
+    "answer": 2,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 35,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "সাধু ভাষার বৈশিষ্ট্য কোনটি?",
+    "options": [
+      "পরিবর্তনশীল",
+      "ক্রিয়াপদ ও সর্বনামে সংক্ষিপ্ত রূপ",
+      "হালকা চালের",
+      "উচ্চারণ গুরুগম্ভীর"
+    ],
+    "answer": 3,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 36,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "চলিত ভাষার বৈশিষ্ট্য কোনটি?",
+    "options": [
+      "চটুল, জীবন্ত ও লোকায়ত",
+      "নাট্য সংলাপের অনুপযোগী",
+      "কাঠামো অপরিবর্তনীয়",
+      "গুরুগম্ভীর"
+    ],
+    "answer": 0,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 37,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Easy",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "ব্যাকরণকে ভাষার কী বলা হয়?",
+    "options": [
+      "অভিভাবক",
+      "সংবিধান",
+      "উপাদান",
+      "গাইড"
+    ],
+    "answer": 1,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 38,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "ব্যাকরণের প্রধান কাজ হলো-",
+    "options": [
+      "ভাষার বিশ্লেষণ",
+      "ভাষার শৃঙ্খলা রক্ষা",
+      "ভাষার উন্নতি",
+      "ভাষার নিয়ম প্রতিষ্ঠা"
+    ],
+    "answer": 0,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 39,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "ব্যাকরণ এসেছে কখন?",
+    "options": [
+      "ভাষার আগে",
+      "ভাষার সৃষ্টির সঙ্গে",
+      "ভাষা সৃষ্টির পরে",
+      "সাম্প্রতিক কালে"
+    ],
+    "answer": 2,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 40,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "কী কারণে ব্যাকরণ পাঠের প্রয়োজন?",
+    "options": [
+      "ভাষার বিকাশের জন্য",
+      "শুদ্ধাশুদ্ধি নির্ণয়ের জন্য",
+      "জ্ঞান দানের জন্য",
+      "ভাষা শিক্ষার জন্য"
+    ],
+    "answer": 3,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 41,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "বাংলা ব্যাকরণের আলোচ্য বিষয় কোনটি?",
+    "options": [
+      "ধ্বনিতত্ত্ব",
+      "প্রবন্ধ রচনা",
+      "ভাব সম্প্রসারণ",
+      "বিরচন"
+    ],
+    "answer": 0,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 42,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "‘বি (বিশেষ) + আ (সম্যক) + √কৃ + অন’ বলতে বোঝায়-",
+    "options": [
+      "ধ্বনিতত্ত্ব",
+      "রূপতত্ত্ব",
+      "ব্যাকরণ",
+      "পদक्रम"
+    ],
+    "answer": 2,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 43,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Easy",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "সব ভাষার ব্যাকরণে কয়টি বিষয় নিয়ে আলোচনা করা হয়?",
+    "options": [
+      "তিনটি",
+      "চারটি",
+      "পাঁচটি",
+      "ছয়টি"
+    ],
+    "answer": 1,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 44,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Hard",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "‘যে বইয়ে ভাষার বিচার ও বিশ্লেষণ আছে, তাই-ই ব্যাকরণ’-কে বলেছেন?",
+    "options": [
+      "সুনীতিকুমার চট্টোপাধ্যায়",
+      "মুহম্মদ শহীদুল্লাহ",
+      "সুকুমার সেন",
+      "মুনীর চৌধুরী"
+    ],
+    "answer": 1,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 45,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "ভাষার অভ্যন্তরীণ শৃঙ্খলা আবিষ্কারের নাম কী?",
+    "options": [
+      "ব্যাকরণ",
+      "রূপতত্ত্ব",
+      "পদক্রম",
+      "শব্দরূপ"
+    ],
+    "answer": 0,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 46,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Easy",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "ভাষার মৌলিক উপাদান কয়টি?",
+    "options": [
+      "তিনটি",
+      "চারটি",
+      "পাঁচটি",
+      "ছয়টি"
+    ],
+    "answer": 1,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 47,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "multiple",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "ব্যাকরণ পাঠ করে জানা যায়-",
+    "options": [
+      "i",
+      "i ও ii",
+      "i ও iii",
+      "i, ii ও iii"
+    ],
+    "answer": 3,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 48,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Easy",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "ব্যঞ্জন বর্ণের সংখ্যা কয়টি?",
+    "options": [
+      "১১টি",
+      "২৫টি",
+      "৩৯টি",
+      "৫০টি"
+    ],
+    "answer": 2,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 49,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "নিচের কোন বর্ণগুলো কণ্ঠ্যধ্বনির উদাহরণ?",
+    "options": [
+      "অ, আ, ক, খ",
+      "ই, ঈ, চ, ছ",
+      "উ, ঊ, প, ফ",
+      "ঘ, ত, থ, দ, ধ"
+    ],
+    "answer": 0,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 50,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "মুখবিবরের কোথাও বাধা না পেয়ে কোন ধ্বনি উচ্চারিত হয়?",
+    "options": [
+      "ওষ্ঠ্যধ্বনি",
+      "ব্যঞ্জনধ্বনি",
+      "স্বরধ্বনি",
+      "নাসিক্যধ্বনি"
+    ],
+    "answer": 2,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 51,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "কোনগুলো স্পর্শধ্বনি?",
+    "options": [
+      "অ থেকে ট পর্যন্ত",
+      "চ থেকে শ পর্যন্ত",
+      "ক থেকে ম পর্যন্ত",
+      "ট থেকে য় পর্যন্ত"
+    ],
+    "answer": 2,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 52,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "নাসিক্যধ্বনি কোনটি?",
+    "options": [
+      "ম",
+      "য",
+      "ঠ",
+      "ষ"
+    ],
+    "answer": 0,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 53,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Easy",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "ভাষার মূল ভিত্তি বা ক্ষুদ্রতম একক কোনটি?",
+    "options": [
+      "ধ্বনি",
+      "বর্ণ",
+      "বর্ণমালা",
+      "শব্দ"
+    ],
+    "answer": 0,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 54,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Easy",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "বাংলা ভাষায় স্বরবর্ণের সংখ্যা কয়টি?",
+    "options": [
+      "১০টি",
+      "১২টি",
+      "৯টি",
+      "১১টি"
+    ],
+    "answer": 3,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 55,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Easy",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "স্বরবর্ণের সংক্ষিপ্ত রূপকে কী বলা হয়?",
+    "options": [
+      "অ-কার",
+      "ই-কার",
+      "ঈ-কার",
+      "কার"
+    ],
+    "answer": 3,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 56,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Easy",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "ব্যঞ্জনবর্ণের সংক্ষিপ্ত রূপকে কী বলা হয়?",
+    "options": [
+      "ফলা",
+      "কার",
+      "কলা",
+      "বর্ণ"
+    ],
+    "answer": 0,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 57,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "কোন ধ্বনি উচ্চারণে চোয়াল বেশি ফাঁক হয়?",
+    "options": [
+      "‘অ’ ধ্বনি",
+      "‘ও’ ধ্বনি",
+      "‘ই’ ধ্বনি",
+      "‘ঐ’ ধ্বনি"
+    ],
+    "answer": 0,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 58,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "ধ্বনি উৎপাদনের মূল উৎস কোনটি?",
+    "options": [
+      "মুখ",
+      "নাসিকা",
+      "ফুসফুস",
+      "কণ্ঠ"
+    ],
+    "answer": 2,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 59,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "multiple",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "প্রধান বাক-প্রত্যঙ্গগুলো হচ্ছে-",
+    "options": [
+      "i",
+      "i ও ii",
+      "i ও iii",
+      "i, ii ও iii"
+    ],
+    "answer": 3,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 60,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Easy",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "ধ্বনি প্রধানত কয় প্রকার?",
+    "options": [
+      "দুপ্রকার",
+      "তিন প্রকার",
+      "চার প্রকার",
+      "পাঁচ প্রকার"
+    ],
+    "answer": 0,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 61,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Easy",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "ধ্বনির প্রতীক বা লিখিত রূপকে কী বলে?",
+    "options": [
+      "স্বরবর্ণ",
+      "বর্ণ",
+      "ব্যঞ্জনবর্ণ",
+      "উচ্চারণ"
+    ],
+    "answer": 1,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 62,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Easy",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "বর্ণ প্রধানত কয় প্রকার?",
+    "options": [
+      "দুপ্রকার",
+      "তিন প্রকার",
+      "চার প্রকার",
+      "পাঁচ প্রকার"
+    ],
+    "answer": 0,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 63,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "multiple",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "ব্যঞ্জনধ্বনি-",
+    "options": [
+      "i",
+      "i ও ii",
+      "i ও iii",
+      "i, ii ও iii"
+    ],
+    "answer": 2,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 64,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "উচ্চারণে সময়ের তারতম্য অনুসারে স্বরধ্বনি কয়টি ভাগে বিভক্ত?",
+    "options": [
+      "দুটি",
+      "তিনটি",
+      "চারটি",
+      "পাঁচটি"
+    ],
+    "answer": 0,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 65,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "কোন গুচ্ছটি হ্রস্ব স্বরধ্বনি?",
+    "options": [
+      "আ, ঈ, ই",
+      "এ, ঐ, ঋ",
+      "ও, ঔ, অ",
+      "অ, ই, উ"
+    ],
+    "answer": 3,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 66,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "অ, আ-স্বরধ্বনির উচ্চারণ স্থান কোনটি?",
+    "options": [
+      "মূর্ধা",
+      "কণ্ঠ",
+      "তালু",
+      "ওষ্ঠ"
+    ],
+    "answer": 1,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 67,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "উচ্চারণ স্থান অনুসারে ‘ই, ঈ,’ ধ্বনির নাম কী?",
+    "options": [
+      "তালব্যধ্বনি",
+      "কণ্ঠ্যধ্বনি",
+      "ওষ্ঠ্যধ্বনি",
+      "মূর্ধন্যধ্বনি"
+    ],
+    "answer": 0,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 68,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "উচ্চারণ বৈশিষ্ট্য অনুসারে ব্যঞ্জনধ্বনি প্রধানত কয় ভাগে বিভক্ত?",
+    "options": [
+      "দুই",
+      "তিন",
+      "চার",
+      "পাঁচ"
+    ],
+    "answer": 1,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 69,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "কণ্ঠ, তালু, মূর্ধা, দন্ত, ওষ্ঠ প্রভৃতি কোনো না কোনো স্থান স্পর্শ করে উচ্চারিত হয়-",
+    "options": [
+      "উষ্মধ্বনি",
+      "অন্তঃস্থ ধ্বনি",
+      "ঘোষধ্বনি",
+      "স্পর্শধ্বনি"
+    ],
+    "answer": 3,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 70,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Easy",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "স্পর্শধ্বনি কয়টি শ্রেণিতে বিভক্ত?",
+    "options": [
+      "দুই",
+      "তিন",
+      "চার",
+      "পাঁচ"
+    ],
+    "answer": 3,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 71,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "কোন ধ্বনিকে নাদধ্বনিও বলা হয়?",
+    "options": [
+      "ঘোষধ্বনি",
+      "অঘোষধ্বনি",
+      "অল্পপ্রাণধ্বনি",
+      "নাসিক্যধ্বনি"
+    ],
+    "answer": 0,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 72,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "বর্গের দ্বিতীয় ও চতুর্থ ধ্বনিগুলো উচ্চারণে বাতাসের চাপের আধিক্য থাকে বলে এগুলো কী বলে?",
+    "options": [
+      "অঘোষধ্বনি",
+      "ঘোষধ্বনি",
+      "অল্পপ্রাণ ধ্বনি",
+      "মহাপ্রাণ ধ্বনি"
+    ],
+    "answer": 3,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 73,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Hard",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "কোন বর্ণে দ্যোতিত ধ্বনির উচ্চারণে জিহ্বার দু পাশ দিয়ে বায়ু বের করে দেওয়া হয়?",
+    "options": [
+      "ল-বর্ণে",
+      "র-বর্ণে",
+      "ড়-বর্ণে",
+      "য-বর্ণে"
+    ],
+    "answer": 0,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 74,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "multiple",
+    "difficulty": "Hard",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "মহাপ্রাণ ধ্বনিগুচ্ছ হচ্ছে-",
+    "options": [
+      "i",
+      "i ও ii",
+      "i ও iii",
+      "i, ii ও iii"
+    ],
+    "answer": 3,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 75,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "নিচের কোনটি সঠিক সন্ধি?",
+    "options": [
+      "রাজা + নী = রাজ্ঞী",
+      "বৃষ + তি = বৃষ্টি",
+      "সিং + হ = সিংহ",
+      "উথ + লাস = উল্লাস"
+    ],
+    "answer": 1,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 76,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Easy",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "সন্ধি শব্দের অর্থ-",
+    "options": [
+      "সংযোগ",
+      "সমাধান",
+      "মিলন",
+      "শান্তি"
+    ],
+    "answer": 2,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 77,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Easy",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "পাশাপাশি অবস্থিত দুটি ধ্বনির মিলনকে কী বলে?",
+    "options": [
+      "পদ",
+      "সন্ধি",
+      "সমাস",
+      "উপসর্গ"
+    ],
+    "answer": 1,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 78,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Easy",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "‘সন্ধি’ প্রধানত কয় প্রকার?",
+    "options": [
+      "দুই",
+      "তিন",
+      "চার",
+      "পাঁচ"
+    ],
+    "answer": 0,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 79,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "স্বরধ্বনির সঙ্গে স্বরধ্বনির মিলনে হয়-",
+    "options": [
+      "তৎসম সন্ধি",
+      "ব্যঞ্জনসঙ্গি",
+      "খাঁটি বাংলা সন্ধি",
+      "স্বরসন্ধি"
+    ],
+    "answer": 3,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 80,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "‘বিদ্যালয়’ সন্ধিতে কোন সূত্রের প্রয়োগ হয়েছে?",
+    "options": [
+      "অ + অ",
+      "আ+ অ",
+      "আ + আ",
+      "আ + অ"
+    ],
+    "answer": 2,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 81,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "‘পরীক্ষা’-এর সন্ধি বিচ্ছেদ কোনটি?",
+    "options": [
+      "পরী + ঈক্ষা",
+      "পরী + ইক্ষা",
+      "পরি + ইক্ষা",
+      "পরি + ঈক্ষা"
+    ],
+    "answer": 3,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 82,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "‘সংবাদ’-এর সন্ধি বিচ্ছেদ কোনটি?",
+    "options": [
+      "সম + বাদ",
+      "সং + বাদ",
+      "সম + আবাদ",
+      "সং + আবাদ"
+    ],
+    "answer": 0,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 83,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Hard",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "কোনটি বিসর্গ সন্ধি যোগে গঠিত শব্দ?",
+    "options": [
+      "নবান্ন",
+      "হিমালয়",
+      "আবিষ্কার",
+      "দিগন্ত"
+    ],
+    "answer": 2,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 84,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "স্বর ও ব্যঞ্জনভেদে তৎসম সন্ধি কয় প্রকার?",
+    "options": [
+      "দুই",
+      "তিন",
+      "চার",
+      "পাঁচ"
+    ],
+    "answer": 0,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 85,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "multiple",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "খাঁটি বাংলা সন্ধির উদাহরণ হচ্ছে-",
+    "options": [
+      "i",
+      "i ও ii",
+      "i ও iii",
+      "i, ii ও iii"
+    ],
+    "answer": 2,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 86,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Easy",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "খাঁটি বাংলা সন্ধি কয় প্রকার?",
+    "options": [
+      "দুই",
+      "তিন",
+      "চার",
+      "পাঁচ"
+    ],
+    "answer": 0,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 87,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Easy",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "‘হিমালয়’ শব্দের প্রকৃত সন্ধি বিচ্ছেদ কোনটি?",
+    "options": [
+      "হীম + আলয়",
+      "হিম + আলয়",
+      "হিমা + লয়",
+      "হিম + লয়"
+    ],
+    "answer": 1,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 88,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "সন্ধির ‘ত + চ’ সূত্র অনুসারে কোন শব্দটি গঠিত হয়েছে?",
+    "options": [
+      "উচ্ছেদ",
+      "তচ্চিত্র",
+      "উচ্চারণ",
+      "বিপচ্চিন্তা"
+    ],
+    "answer": 2,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 89,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "‘দিগন্ত’ শব্দটির সঠিক সন্ধি বিচ্ছেদ কোনটি?",
+    "options": [
+      "দিগ + অন্ত",
+      "দিক্ + অন্ত",
+      "দি +গন্ত",
+      "দিগ্ + ন্ত"
+    ],
+    "answer": 1,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 90,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "‘উচ্ছ্বাস’ শব্দটির সঠিক সন্ধি বিচ্ছেদ কোনটি?",
+    "options": [
+      "উৎ + চ্ছাস",
+      "উচ + ছাস",
+      "উচ + শাস",
+      "উৎ + শ্বাস"
+    ],
+    "answer": 3,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 91,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Hard",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "‘গবেষণা’ শব্দটির সঠিক সন্ধি বিচ্ছেদ কোনটি?",
+    "options": [
+      "গো + এষণা",
+      "গবে + এষণা",
+      "গভি + এষণা",
+      "গবেষ + ণা"
+    ],
+    "answer": 0,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 92,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "‘উদ্ধার’ শব্দটির সন্ধি বিচ্ছেদ কোনটি?",
+    "options": [
+      "উৎ + হার",
+      "উধ্ + হার",
+      "উৎ+ ধার",
+      "উদ্ + ধার"
+    ],
+    "answer": 0,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 93,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "‘নিরক্ষর’ শব্দটির সঠিক সন্ধি বিচ্ছেদ কোনটি?",
+    "options": [
+      "নির + অক্ষর",
+      "নিঃ + অক্ষর",
+      "নির + ক্ষর",
+      "নিঃ + ধার"
+    ],
+    "answer": 1,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 94,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "‘বনস্পতি’-এর সন্ধি বিচ্ছেদ কোনটি?",
+    "options": [
+      "বনঃ + পতি",
+      "বনস্ + পতি",
+      "বন + পতি",
+      "বন Ñ স্পতি"
+    ],
+    "answer": 2,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 95,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "‘অতএব’ শব্দের সন্ধি বিচ্ছেদ কী?",
+    "options": [
+      "অত + ইব",
+      "অতঃ + দেব",
+      "অতঃ + এব",
+      "অতি + এব"
+    ],
+    "answer": 2,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 96,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "কোনটি সন্ধির উদ্দেশ্য?",
+    "options": [
+      "শব্দের মিলন",
+      "বর্ণের মিলন",
+      "ধ্বনিগত মাধুর্য সম্পাদন",
+      "শব্দগত মাধুর্য সম্পাদন"
+    ],
+    "answer": 2,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 97,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "সন্ধির প্রধান উদ্দেশ্য কী?",
+    "options": [
+      "স্বাভাবিক উচ্চারণে সহজ প্রবণতা",
+      "উচ্চারণের দ্রুততা",
+      "আঞ্চলিক ভাষার মাধুর্য রক্ষা",
+      "স্বরবর্ণ ও ব্যঞ্জনবর্ণের মিলন"
+    ],
+    "answer": 0,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 98,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "অ-ধ্বনি কিংবা আ-ধ্বনির পর অ-ধ্বনি কিংবা আ-ধ্বনি থাকলে উভয় মিলে কী হয়?",
+    "options": [
+      "অ-কার হয়",
+      "আ-কার হয়",
+      "ঈ-কার হয়",
+      "ই-কার হয়"
+    ],
+    "answer": 1,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 99,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "অ-ধ্বনি কিংবা আ-ধ্বনির পর উভয় মিলে আ-ধ্বনি হয়—এ নিয়মে কোন শব্দটির সন্ধি হয়েছে?",
+    "options": [
+      "পরি + ঈক্ষা = পরীক্ষা",
+      "যথা + ইচ্ছা = যথেচ্ছা",
+      "মহা + আশয়= মহাশয়",
+      "রমা + ঈশ = রমেশ"
+    ],
+    "answer": 2,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 100,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "‘গায়ক’-এর সন্ধি বিচ্ছেদ কী হবে?",
+    "options": [
+      "গা + ওক",
+      "গা + য়ক",
+      "গা + অক",
+      "গৈ + অক"
+    ],
+    "answer": 3,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 101,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Hard",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "সন্ধির নিয়মানুসারে অ-কারের পর ই-কার কিংবা ঈ-কার থাকলে উভয় মিলে কী হবে?",
+    "options": [
+      "ঈ-কার",
+      "এ-কার",
+      "ঐ-কার",
+      "ঔ-কার"
+    ],
+    "answer": 1,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 102,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "নিচের কোন বাক্যে দ্বিতীয় বিভক্তির ব্যবহার হয়েছে?",
+    "options": [
+      "শিমুকে যেতে হবে",
+      "সজল গান গায়",
+      "দেশের সেবা কর",
+      "রাজায় রাজায় যুদ্ধ"
+    ],
+    "answer": 0,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 103,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "‘ভিক্ষুককে ভিক্ষা দাও’—কোন কারকের উদাহরণ?",
+    "options": [
+      "কর্তৃ কারক",
+      "কর্ম কারক",
+      "করণ কারক",
+      "সম্প্রদান কারক"
+    ],
+    "answer": 3,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 104,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "‘বনে বাঘ থাকে’—নিম্নরেখ শব্দটি কোন কারকের ৭মী বিভক্তির উদাহরণ?",
+    "options": [
+      "কর্তৃ",
+      "অধিকরণ",
+      "অপাদান",
+      "কর্ম"
+    ],
+    "answer": 1,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 105,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Easy",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "‘কারক’ (কৃ + ণক) শব্দটির অর্থ কী?",
+    "options": [
+      "যা পদকে সম্পাদন করে",
+      "যা সমাসকে সম্পাদন করে",
+      "যা ক্রিয়া সম্পাদন করে",
+      "যা পদ ও সমাসকে সম্পাদন করে"
+    ],
+    "answer": 2,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 106,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Easy",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "বাক্যে ক্রিয়া পদের সঙ্গে অন্য পদের যে সম্পর্ক তাকে কী বলে?",
+    "options": [
+      "পদ",
+      "বিভক্তি",
+      "সমাস",
+      "কারক"
+    ],
+    "answer": 3,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 107,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Easy",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "বাক্যস্থিত ক্রিয়া পদের সাথে কোন পদের সম্পর্ককে কারক বলে?",
+    "options": [
+      "নাম পদের",
+      "অব্যয় পদের",
+      "বিশেষণ পদের",
+      "ক্রিয়া বিশেষণ পদের"
+    ],
+    "answer": 0,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 108,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "“ছাদ থেকে নদী দেখা যায়”—নিম্নরেখ পদগুলো কোন কারকে কোন বিভক্তি?",
+    "options": [
+      "কর্মে ৫মী",
+      "করণে ৫মী",
+      "অপাদানে ৫মী",
+      "অধিকরণে ৫মী"
+    ],
+    "answer": 3,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 109,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "“ডাক্তার ডাক”—‘ডাক্তার’ শব্দটি কোন কারকে কোন বিভক্তি?",
+    "options": [
+      "কর্তৃকারকে ১ম",
+      "কর্মে প্রথমা",
+      "অপাদানে ১মা",
+      "অধিকরণে প্রথমা"
+    ],
+    "answer": 1,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 110,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "“কাল সারারাত বৃষ্টি হয়েছে।”—‘বৃষ্টি’ কোন কারক?",
+    "options": [
+      "কর্তৃকারক",
+      "অপাদান",
+      "অপাদান",
+      "করণ"
+    ],
+    "answer": 2,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 111,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "সম্প্রদান কারকের উদাহরণ কোনটি?",
+    "options": [
+      "ধোপাকে কাপড় দাও",
+      "শ্রমিককে বেতন দাও",
+      "সৎপাত্রে কন্যা দান কর",
+      "মা শিশুকে চাঁদ দেখাচ্ছে"
+    ],
+    "answer": 2,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 112,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "“ট্রেন ঢাকা ছাড়ল।”—‘ঢাকা’ পদটি কোন কারক?",
+    "options": [
+      "অপাদন",
+      "কর্ম",
+      "অধিকরণ",
+      "করণ"
+    ],
+    "answer": 2,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 113,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Easy",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "স্বত্ব ত্যাগ করে যাকে কিছু দান করা হয়, তাকে কোন কারক বলে?",
+    "options": [
+      "সমাস",
+      "সম্প্রদান",
+      "বিভক্তি",
+      "অধিকরণ"
+    ],
+    "answer": 1,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 114,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "“পুকুরে মাছ আছে।”—‘পুকুরে’ কোন অধিকরণ কারক?",
+    "options": [
+      "অভিব্যাপক",
+      "বৈষয়িক",
+      "ঐকদৈশিক",
+      "কালাধিকরণ"
+    ],
+    "answer": 2,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 115,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "‘গুরুজনে ভক্তি কর’—‘গুরুজনে’ কোন কারক?",
+    "options": [
+      "কর্তৃকারক",
+      "অপাদান কারক",
+      "কর্মকারক",
+      "সম্প্রদান কারক"
+    ],
+    "answer": 2,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 116,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "বিভক্তি চি‎হ্ন স্পষ্ট না হলে সেখানে কোন বিভক্তি আছে মনে করা হয়?",
+    "options": [
+      "প্রথমা বিভক্তি",
+      "শূন্য বিভক্তি",
+      "ষষ্ঠী বিভক্তি",
+      "সপ্তমী বিভক্তি"
+    ],
+    "answer": 1,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 117,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "“সমিতিতে চাঁদা দাও।” এখানে ‘সমিতিতে’ কোন কারক?",
+    "options": [
+      "অপাদান কারক",
+      "সম্প্রদান কারক",
+      "করণ কারক",
+      "কর্তৃকারক"
+    ],
+    "answer": 1,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 118,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Hard",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "নিচের কোনটি করণ কারকে ৭মী বিভক্তি?",
+    "options": [
+      "নতুন ধান্যে হবে নবান্ন",
+      "কাচের জিনিস সহজে ভাঙে",
+      "ছেলেরা বল খেলে",
+      "টাকায় কিনা হয়/রিকশায় এসেছি"
+    ],
+    "answer": 3,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 119,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Easy",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "কারক কয় প্রকার?",
+    "options": [
+      "তিন",
+      "চার",
+      "পাঁচ",
+      "ছয়"
+    ],
+    "answer": 3,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 120,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "ক্রিয়াকে ‘কে’ দ্বারা প্রশ্নের উত্তরে কোন কারক পাওয়া যায়?",
+    "options": [
+      "কর্তৃকারক",
+      "কর্মকারক",
+      "করণ কারক",
+      "সম্প্রদান কারক"
+    ],
+    "answer": 0,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 121,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "multiple",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "কর্মকারক পাওয়া যাবে ক্রিয়াকে-",
+    "options": [
+      "i",
+      "i ও ii",
+      "i ও iii",
+      "i, ii ও iii"
+    ],
+    "answer": 2,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 122,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "ক্রিয়াকে ‘কোথায়’, ‘কখন’ দ্বারা প্রশ্ন করলে কোন কারক পাওয়া যায়?",
+    "options": [
+      "করণ কারক",
+      "সম্প্রদান কারক",
+      "অপাদান কারক",
+      "অধিকরণ কারক"
+    ],
+    "answer": 3,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 123,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "ক্রিয়াকে ‘কোথা হতে’ প্রশ্নের উত্তরে কোন কারক পাওয়া যায়?",
+    "options": [
+      "কর্মকারক",
+      "সম্প্রদান কারক",
+      "অপাদান কারক",
+      "করণ কারক"
+    ],
+    "answer": 2,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 124,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Easy",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "বিভক্তি প্রধানত কয় প্রকার?",
+    "options": [
+      "দুই",
+      "তিন",
+      "চার",
+      "পাঁচ"
+    ],
+    "answer": 0,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 125,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "ক্রিয়া সম্পাদনের বৈশিষ্ট্য অনুযায়ী কর্তৃকারক কয় প্রকার?",
+    "options": [
+      "দুই প্রকার",
+      "চার প্রকার",
+      "ছয় প্রকার",
+      "আট প্রকার"
+    ],
+    "answer": 2,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 126,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "অর্থভেদে অধিকরণ কারক কয় প্রকার?",
+    "options": [
+      "তিন প্রকার",
+      "চার প্রকার",
+      "পাঁচ প্রকার",
+      "ছয় প্রকার"
+    ],
+    "answer": 1,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 127,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "“কান্নায় শোক মন্দীভূত হয়।”—‘কান্নায়’ কোন কারকে কোন বিভক্তি?",
+    "options": [
+      "কর্মে সপ্তমী",
+      "কর্তৃকারকে সপ্তমী",
+      "অপাদানে সপ্তমী",
+      "অধিকরণে সপ্তমী"
+    ],
+    "answer": 3,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 128,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "“তিলে তৈল হয়”− এতে ‘তিল’ শব্দটি কোন কারক?",
+    "options": [
+      "কর্ম কারক",
+      "করণ কারক",
+      "অপাদান কারক",
+      "অধিকরণ করক"
+    ],
+    "answer": 2,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 129,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "“সমুদ্র-জলে লবণ হয়”− এটি কোন কারকে কোন বিভক্তি?",
+    "options": [
+      "অধিকরণে ৭মী",
+      "অপাদানে ৭মী",
+      "করণে ৭মী",
+      "সম্প্রদানে ৭মী"
+    ],
+    "answer": 1,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 130,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "“ধর্মের কল বাতাসে নড়ে”− বাক্যটিতে ‘বাতাসে’ শব্দটি কোন কারকে কোন বিভক্তি?",
+    "options": [
+      "করণে ৭মী",
+      "কর্মে ৭মী",
+      "কর্মে শূন্য",
+      "অধিকরণে ৭মী"
+    ],
+    "answer": 0,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 131,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Hard",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "“যৌবন জীবনের শ্রেষ্ঠ সময়”− নিম্নরেখ শব্দটির কারক ও বিভক্তি কী হবে?",
+    "options": [
+      "অপাদানে ১মা",
+      "কর্তায় শূন্য",
+      "কর্মে শূন্য",
+      "কর্মে ১মা"
+    ],
+    "answer": 2,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 132,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "“জমি থেকে ফসল পাই”− এটি কোন অর্থে অপাদান কারক?",
+    "options": [
+      "জাত",
+      "গৃহীত",
+      "রক্ষিত",
+      "বিচ্যুত"
+    ],
+    "answer": 0,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 133,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "“কৌশলে সব কাজ হয় না”− এই বাক্যে ‘কৌশল’ পদের কারক ও বিভক্তি কোনটি?",
+    "options": [
+      "কর্তায়-৭মী",
+      "কর্মে প্রথমা",
+      "করণে ৭মী",
+      "অপাদানে-৭মী"
+    ],
+    "answer": 2,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 134,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "“এ সুতায় কাপড় হয় না”− ‘সুতায়’ শব্দটি কোন কারকে কোন বিভক্তি?",
+    "options": [
+      "অপাদানে ৭মী",
+      "করণে শূন্য",
+      "অধিকরণে ৭মী",
+      "করণে ৭মী"
+    ],
+    "answer": 3,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 135,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "নিম্নের কোনটি ঐকদেশিক কারকের উদাহরণ?",
+    "options": [
+      "তিলে তৈল আছে",
+      "পুকুরে মাছ আছে",
+      "কান্নায় শোক মন্দীভূত হয়",
+      "লবণে সোডিয়াম আছে"
+    ],
+    "answer": 1,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 136,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Hard",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "“সূর্যোদয়ে অন্ধকার দূরীভূত হয়”− সূর্যোদয়ে পদটি কোন কারকে কোন বিভক্তি?",
+    "options": [
+      "অধিকরণে সপ্তমী",
+      "ভাবাধিকরণে সপ্তমী",
+      "কর্মে দ্বিতীয়া",
+      "অধিকরণে পঞ্চমী"
+    ],
+    "answer": 1,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 137,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "“খেজুর-রসে গুড় হয়”− ‘খেজুর-রসে’ শব্দটি কোন কারকে কোন বিভক্তি?",
+    "options": [
+      "অধিকরণে ৭মী",
+      "অপাদানে ৬ষ্ঠী",
+      "অপাদানে ৭মী",
+      "করণে ৭মী"
+    ],
+    "answer": 2,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 138,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Hard",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "“চোখের দেখা হলো না”− এ বাক্যে ‘চোখের’ কোন কারকে কোন বিভক্তি?",
+    "options": [
+      "অদিকরণে ৭মী",
+      "অপাদানে ৬ষ্ঠী",
+      "অপাদানে ৭মী",
+      "কারণে ৭মী"
+    ],
+    "answer": 2,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 139,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Hard",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "“সর্বাঙ্গে ব্যথা ঔষধ দিব কোথা?”− নিম্নরেখ শব্দটি কোন কারকে কোন বিভক্তি?",
+    "options": [
+      "অধিকরণ কারকে ৭মী বিভক্তি",
+      "অপাদান কারক ৭মী বিভক্তি",
+      "কর্তৃক কারকে ৭মী বিভক্তি",
+      "অপাদান কারকে ৫মী বিভক্তি"
+    ],
+    "answer": 0,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 140,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Easy",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "‘ষষ্ঠী’ বিভক্তির চিহ্ন কোনটি?",
+    "options": [
+      "কে, রে",
+      "র, এর",
+      "এ, য়",
+      "দ্বারা, দিয়ে, কর্তৃক"
+    ],
+    "answer": 1,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 141,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Hard",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "“বিপদে যেন করিতে পারি জয়”− এখানে ‘বিপদে’ কোন কারকে কোন বিভক্তি?",
+    "options": [
+      "অপাদানে ৭মী বিভক্তি",
+      "অধিকরণে ৭মী বিভক্তি",
+      "কর্মে ৭মী বিভক্তি",
+      "করণে ৭মী বিভক্তি"
+    ],
+    "answer": 2,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 142,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Hard",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "“আমার যাওয়া হবে না”− এখানে আমার’ কোন কারকে কোন বিভক্তি?",
+    "options": [
+      "কর্তৃ কারকে ষষ্ঠী",
+      "কর্মে ষষ্ঠী",
+      "কর্তৃ কারকে শূন্য বিভক্তি",
+      "কর্মে শূন্য"
+    ],
+    "answer": 0,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 143,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "“বুলবুলিতে ধান খেয়েছে”− কোন কারকে কোন বিভক্তি?",
+    "options": [
+      "কর্তায় সপ্তমী",
+      "কর্মে সপ্তমী",
+      "করণে সপ্তমী",
+      "কর্তায় দ্বিতীয়"
+    ],
+    "answer": 0,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 144,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "ক্রিয়াপদের সঙ্গে সম্পর্ক না রেখে যে নামপদ বাক্যস্থিত অন্য পদের সঙ্গে সম্পর্কযুক্ত হয় তাকে কী বলে?",
+    "options": [
+      "বিশেষ্যপদ",
+      "সম্বন্ধপদ",
+      "সর্বনামপদ",
+      "সম্বোধনপদ"
+    ],
+    "answer": 1,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 145,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Easy",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "যাকে আহ্বান করে কিছু বলা হয় তাকে কী বলে?",
+    "options": [
+      "সম্বোধনপদ",
+      "সম্বন্ধপদ",
+      "ক্রিয়াপদ",
+      "সর্বনামপদ"
+    ],
+    "answer": 0,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 146,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "multiple",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "সম্বোধন পদের উদাহরণ হচ্ছে-",
+    "options": [
+      "i",
+      "i ও ii",
+      "i ও iii",
+      "i, ii ও iii"
+    ],
+    "answer": 1,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 147,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "বিভক্তি ও অনুসর্গ যোগ করে সংশ্লিষ্ট শব্দের যে রূপ হয়, তাকে কী বলে?",
+    "options": [
+      "কারক",
+      "বিভক্তি",
+      "শব্দরূপ",
+      "সম্বন্ধ পদ"
+    ],
+    "answer": 2,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 148,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Easy",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "শব্দরূপ হিসেবে ‘মানুষ’ শব্দটি কী?",
+    "options": [
+      "একবচন",
+      "দ্বিবচন",
+      "বহুবচন",
+      "সাধারণ শব্দ"
+    ],
+    "answer": 0,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 149,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Easy",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "‘আমি’ শব্দের বহুবচন হলো-",
+    "options": [
+      "আমরা",
+      "আমরা-সব",
+      "আমরা-সকলে",
+      "সবগুলো"
+    ],
+    "answer": 3,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 150,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Hard",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "‘তর’ ও ‘তম’ প্রত্যয় দুটি যুক্ত হয় কোন রীতিতে?",
+    "options": [
+      "বাংলা রীতি",
+      "সংস্কৃত রীতি",
+      "দেশি",
+      "বিদেশি"
+    ],
+    "answer": 1,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 151,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "বিশেষণের তারতম্য প্রকাশের জন্য বাংলা ও সংস্কৃতে কয়টি রীতি আছে?",
+    "options": [
+      "দুটি",
+      "তিনটি",
+      "চারটি",
+      "পাঁচটি"
+    ],
+    "answer": 0,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 152,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Easy",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "দুইয়ের মধ্যে তুলনায় কোনটি ব্যবহৃত হয়?",
+    "options": [
+      "সর্বাপেক্ষা",
+      "সকলের চেয়ে",
+      "সবচেয়ে",
+      "অপেক্ষা"
+    ],
+    "answer": 3,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 153,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "বিশেষণের ‘তর’ কেমন উৎকর্ষবাচক বা অপকর্ষবাচক প্রত্যয়?",
+    "options": [
+      "তুলনাহীন",
+      "আপেক্ষিক",
+      "সর্বাধিক",
+      "গুণবাচক"
+    ],
+    "answer": 1,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 154,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "দুয়ের মধ্যে তুলনা করতে হলে কী বসে?",
+    "options": [
+      "থেকে",
+      "চেয়ে",
+      "তম",
+      "তর"
+    ],
+    "answer": 3,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 155,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "‘তারতম্য’ শব্দটি কী থেকে তৈরি?",
+    "options": [
+      "তর",
+      "তম",
+      "তরতম",
+      "তার"
+    ],
+    "answer": 2,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 156,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "চন্দ্র পৃথিবী অপেক্ষা-",
+    "options": [
+      "ক্ষুদ্র",
+      "ক্ষুদ্রতর",
+      "অপেক্ষাকৃত ক্ষুদ্র",
+      "অতি ক্ষুদ্র"
+    ],
+    "answer": 1,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 157,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "মেঘনা বাংলাদেশের-",
+    "options": [
+      "দীর্ঘতম নদী",
+      "দীর্ঘ নদী",
+      "সবচেয়ে দীর্ঘ নদী",
+      "অপেক্ষাকৃত দীর্ঘ নদী"
+    ],
+    "answer": 0,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 158,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "multiple",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "বাংলায় দুইয়ের মধ্যে তুলনায় ব্যবহৃত হয়-",
+    "options": [
+      "i",
+      "i ও ii",
+      "i ও iii",
+      "i, ii ও iii"
+    ],
+    "answer": 1,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 159,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Easy",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "এক বা একাধিক ধ্বনি মিলে কোনো অর্থ প্রকাশ করলে তাকে কী বলে?",
+    "options": [
+      "পদ",
+      "শব্দ",
+      "ধাতু",
+      "প্রকৃতি"
+    ],
+    "answer": 1,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 160,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Easy",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "গঠনগত দিক থেকে শব্দ কয়টি শ্রেণিতে বিভক্ত?",
+    "options": [
+      "দুটি",
+      "তিনটি",
+      "চারটি",
+      "পাঁচটি"
+    ],
+    "answer": 0,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 161,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Easy",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "অর্থবোধক ধ্বনিসমষ্টিকে কী বলে?",
+    "options": [
+      "প্রকৃতি",
+      "প্রত্যয়",
+      "শব্দ",
+      "বাক্য"
+    ],
+    "answer": 2,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 162,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "শব্দের আভিধানিক অর্থকে কী বলে?",
+    "options": [
+      "ব্যাচার্থ",
+      "লক্ষ্যার্থ",
+      "গৌনার্থ",
+      "সরলার্থ"
+    ],
+    "answer": 0,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 163,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "নিচের কোন শব্দটি ক্রিয়া বিভক্তি যোগ করে গঠন করা হয়েছে?",
+    "options": [
+      "মানুষের",
+      "তোমাকে",
+      "পড়ি",
+      "লোকে"
+    ],
+    "answer": 2,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 164,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Easy",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "মৌলিক শব্দের উদাহরণ কোনটি?",
+    "options": [
+      "মিঠাই, চক্র",
+      "চলন্ত, মানব",
+      "বই, কলম",
+      "ঐক্য, কর্তব্য"
+    ],
+    "answer": 2,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 165,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "মৌলিক শব্দ গঠনের প্রথম উপায় কোনটি?",
+    "options": [
+      "ধ্বনির সঙ্গে ধ্বনি যোগ",
+      "বর্ণের সঙ্গে বর্ণ যোগ",
+      "শব্দের সঙ্গে শব্দ যোগ",
+      "পদের সঙ্গে পদ যোগ"
+    ],
+    "answer": 1,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 166,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "যেসব শব্দকে বিশ্লেষণ বা ভেঙে আলাদা করা যায় না সেগুলোকে কী বলে?",
+    "options": [
+      "মৌলিক শব্দ",
+      "সাধিত শব্দ",
+      "তৎসম শব্দ",
+      "মিশ্র শব্দ"
+    ],
+    "answer": 0,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 167,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "‘কার’ ও ‘ফলা’ যুক্ত হয়ে কোন শব্দ গঠিত হয়?",
+    "options": [
+      "সাধিত শব্দ",
+      "যৌগিক শব্দ",
+      "মৌলিক শব্দ",
+      "মিশ্র শব্দ"
+    ],
+    "answer": 2,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 168,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "যেসব শব্দকে বিশ্লেষণ করলে আলাদা অর্থ পাওয়া যায় সেগুলোকে কী শব্দ বলে?",
+    "options": [
+      "মৌলিক শব্দ",
+      "যৌগিক শব্দ",
+      "মিশ্র শব্দ",
+      "সাধিত শব্দ"
+    ],
+    "answer": 3,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 169,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "সন্ধি, সমাস, উপসর্গ, প্রত্যয় ইত্যাদির মাধ্যমে কোন শব্দ গঠিত হয়?",
+    "options": [
+      "মৌলিক শব্দ",
+      "যৌগিক শব্দ",
+      "মিশ্র শব্দ",
+      "সাধিত শব্দ"
+    ],
+    "answer": 3,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 170,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "multiple",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "উপসর্গের কাজ-",
+    "options": [
+      "i",
+      "i ও ii",
+      "i ও iii",
+      "i, ii ও iii"
+    ],
+    "answer": 3,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 171,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "যেসব অব্যয় শব্দ ধাতু বা নাম শব্দের পূবে বসে শব্দগুলোর অর্থের পরিবর্তন সাধন করে, তাদের বলা হয়-",
+    "options": [
+      "প্রত্যয়",
+      "উপসর্গ",
+      "অনুসর্গ",
+      "শব্দরূপ"
+    ],
+    "answer": 1,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 172,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "উপসর্গের ব্যবহারে কোন শব্দে অর্থের সম্প্রসারণ হয়েছে?",
+    "options": [
+      "হা + ভাত = হাভাত",
+      "অ + ভাব = অভাব",
+      "পরি + পূর্ণ = পরিপূর্ণ",
+      "উপ + কথা = উপকথা"
+    ],
+    "answer": 2,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 173,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Easy",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "উপসর্গ প্রধানত কয় প্রকার?",
+    "options": [
+      "দুই",
+      "তিন",
+      "চার",
+      "পাঁচ"
+    ],
+    "answer": 1,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 174,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Easy",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "যে সকল অব্যয়সূচক শব্দাংশ শব্দের পূর্বে বসে নতুন শব্দ গঠন করে তাদের কী বলা হয়?",
+    "options": [
+      "অব্যয়",
+      "উপসর্গ",
+      "অনুসর্গ",
+      "বিভক্তি"
+    ],
+    "answer": 1,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 175,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "‘উৎ’ শব্দাংশটি কোন প্রকার উপসর্গের উদারহণ?",
+    "options": [
+      "বাংলা উপসর্গ",
+      "তৎসম উপসর্গ",
+      "বিদেশি",
+      "ফারসি উপসর্গ"
+    ],
+    "answer": 1,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 176,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "উপসর্গের কাজ কী?",
+    "options": [
+      "নতুন অর্থবোধক শব্দ গঠন করা",
+      "নতুন বাক্য গঠন করা",
+      "বাক্যকে সৌন্দর্যমণ্ডিত করা",
+      "বাক্যের অলংকার বৃদ্ধি করা"
+    ],
+    "answer": 0,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 177,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "নতুন অর্থযুক্ত শব্দের সৃষ্টি করে ভাষাকে সমৃদ্ধ করে কোনটি?",
+    "options": [
+      "অনুসর্গ",
+      "পদ",
+      "বিভক্তি",
+      "উপসর্গ"
+    ],
+    "answer": 3,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 178,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "‘নিখোঁজ’ শব্দে ‘নি’ কোন প্রকার উপসর্গ?",
+    "options": [
+      "তৎসম",
+      "খাঁটি বাংলা",
+      "আরবি",
+      "ফারসি"
+    ],
+    "answer": 1,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 179,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "‘অপয়া’ শব্দের ‘অ’ উপসর্গ কী অর্থে ব্যবহৃত হয়েছে?",
+    "options": [
+      "নিন্দা অর্থে",
+      "অস্পষ্টতা অর্থে",
+      "কুৎসিত অর্থে",
+      "অভাব অর্থে"
+    ],
+    "answer": 0,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 180,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "বাংলা উপসর্গ এদেশের কোন জনগোষ্ঠীর ভাষা থেকে এসেছে?",
+    "options": [
+      "প্রাকৃত জনগোষ্ঠী",
+      "খাঁটি বাঙালি",
+      "অস্ট্রিক জনগোষ্ঠী",
+      "অনার্য জনগোষ্ঠী"
+    ],
+    "answer": 0,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 181,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "উপসর্গ যুক্ত হয় কৃদন্ত বা নাম শব্দের কোথায়?",
+    "options": [
+      "পূর্বে",
+      "মধ্যে",
+      "পরে",
+      "পূর্বে ও পরে"
+    ],
+    "answer": 0,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 182,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "নিচের কোনটি তৎসম উপসর্গ?",
+    "options": [
+      "অজ",
+      "গব্",
+      "পরি",
+      "পূর্বে ও পরে"
+    ],
+    "answer": 2,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 183,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "কোন শব্দে তৎসম উপসর্গ ব্যবহৃত হয়েছে?",
+    "options": [
+      "আনমনা",
+      "বেকার",
+      "উপবন",
+      "হাঘরে"
+    ],
+    "answer": 2,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 184,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "খাঁটি বাংলা উপসর্গযোগে গঠিত শব্দ কোনটি?",
+    "options": [
+      "পরাজয়",
+      "প্রভাত",
+      "নিবারণ",
+      "ভরপেট"
+    ],
+    "answer": 3,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 185,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Easy",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "খাঁটি বাংলা উপসর্গ কয়টি?",
+    "options": [
+      "আঠারোটি",
+      "উনিশটি",
+      "কুড়টি",
+      "একুশটি"
+    ],
+    "answer": 3,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 186,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "শব্দের অর্থ সংকুচিত, প্রসারিত ও পরিবর্তিত হয় কীসের প্রভাবে?",
+    "options": [
+      "উপসর্গের প্রভাবে",
+      "অনুসর্গের প্রভাবে",
+      "প্রত্যয়ের প্রভাবে",
+      "কারকের প্রভাবে"
+    ],
+    "answer": 0,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 187,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "কোনটি সংস্কৃত উপসর্গ?",
+    "options": [
+      "দর",
+      "পতি",
+      "অনু",
+      "ইতি"
+    ],
+    "answer": 2,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 188,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "‘অঘা’ শব্দাংশটি কোন প্রকার উপসর্গের উদাহরণ?",
+    "options": [
+      "সংস্কৃত উপসর্গের",
+      "খাঁটি বাংলা উপসর্গের",
+      "আরবি উপসর্গ",
+      "ফারসি উপসর্গ"
+    ],
+    "answer": 1,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 189,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "‘নিলাজ’ শব্দটির ‘নি’ কোন প্রকার উপসর্গ?",
+    "options": [
+      "বাংলা উপসর্গ",
+      "সংস্কৃত উপসর্গ",
+      "আরবি উপসর্গ",
+      "বিদেশি উপসর্গ"
+    ],
+    "answer": 0,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 190,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "প্রাতিপদিকের সঠিক উদাহরণ কোনটি?",
+    "options": [
+      "হাতল",
+      "হাত",
+      "হাতা",
+      "হাভাত"
+    ],
+    "answer": 1,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 191,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "নিচের কোনটি বিদেশি তদ্ধিত প্রত্যয়যোগে গঠিত শব্দ?",
+    "options": [
+      "বাবু + আনা = বাবু আনা",
+      "পঠ্ + অ = পাঠ",
+      "ধন + ঈ = ধনী",
+      "হাত + অল = হাতল"
+    ],
+    "answer": 0,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 192,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "প্রত্যয় দ্বারা কোন শব্দ গঠিত হয়?",
+    "options": [
+      "মৌলিক শব্দ",
+      "সাধিত শব্দ",
+      "যৌগিক শব্দ",
+      "তৎসম শব্দ"
+    ],
+    "answer": 1,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 193,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Easy",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "প্রত্যয় প্রধানত কত প্রকার?",
+    "options": [
+      "দুই",
+      "তিন",
+      "চার",
+      "পাঁচ"
+    ],
+    "answer": 0,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 194,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "ধাতুর পরে যে প্রত্যয় যুক্ত হয়ে নতুন শব্দ গঠন করে তাকে কী বলে?",
+    "options": [
+      "তদ্ধিত প্রত্যয়",
+      "সংস্কৃত তদ্ধিত প্রত্যয়",
+      "কৃৎ প্রত্যয়",
+      "বিদেশি প্রত্যয়"
+    ],
+    "answer": 2,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 195,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "শব্দের পরে যে প্রত্যয় যুক্ত হয়ে নতুন শব্দ গঠন করে তাকে কী বলে?",
+    "options": [
+      "তদ্ধিত প্রত্যয়",
+      "কৃৎ প্রত্যয়",
+      "সংস্কৃত কৃৎ প্রত্যয়",
+      "বিদেশি প্রত্যয়"
+    ],
+    "answer": 0,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 196,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "multiple",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "শব্দ ধাতুর পরে প্রত্যয় যুক্ত হয়ে গঠিত শব্দ হচ্ছে-",
+    "options": [
+      "i",
+      "i ও ii",
+      "i ও iii",
+      "i, ii ও iii"
+    ],
+    "answer": 2,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 197,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "‘সোনালি’− শব্দটির প্রকৃতি ও প্রত্যয় কোনটি?",
+    "options": [
+      "শুন্ + আলি",
+      "সোনা + আলি",
+      "সোন্ + আলি",
+      "সুন্ + আলী"
+    ],
+    "answer": 1,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 198,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Hard",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "‘দ্রষ্টব্য’ শব্দটির সঠিক প্রকৃতি ও প্রত্যয় কোনটি?",
+    "options": [
+      "দৃশ + তব্য",
+      "দৃশ + তব্য",
+      "দৃ + তব্য",
+      "দৃশ + ত"
+    ],
+    "answer": 1,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 199,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Hard",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "‘সৌন্দর্য’ শব্দটির সঠিক প্রকৃতি ও প্রত্যয় কোনটি?",
+    "options": [
+      "সুন্দর + য",
+      "সুন্দ + অর্য",
+      "সুন + দর্য",
+      "সুন্দ + ঐর্য"
+    ],
+    "answer": 0,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 200,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "কোন শব্দে বৃত্তি অর্থে ‘ই’ প্রত্যয় কোনটি?",
+    "options": [
+      "পোদ্দার",
+      "জমিদারি",
+      "সরকারি",
+      "রেশমি"
+    ],
+    "answer": 1,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 201,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Hard",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "‘শ্রবণ’-এর প্রকৃতি-প্রত্যয় কোনটি সঠিক?",
+    "options": [
+      "শ্রী + অন",
+      "শ্রবণ + অ",
+      "শ্রু + অন",
+      "শ্রব + অন"
+    ],
+    "answer": 2,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 202,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "প্রত্যয় সাধিত শব্দ কোনটি?",
+    "options": [
+      "সুশ্রী",
+      "সফল",
+      "জেলে",
+      "মহাত্মা"
+    ],
+    "answer": 2,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 203,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Hard",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "‘মোড়ক’ শব্দটির প্রকৃতি ও প্রত্যয় কী?",
+    "options": [
+      "মোড় + অক",
+      "মুড় + অক",
+      "মোড় + অক",
+      "মুড়ি + অক"
+    ],
+    "answer": 1,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 204,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "ধাতু বা শব্দের শেষে প্রত্যয় যুক্ত করার উদ্দেশ্য কী?",
+    "options": [
+      "ভাষা সংক্ষেপণ",
+      "শব্দের মিলন",
+      "নতুন শব্দ গঠন",
+      "বাক্য অলংকার"
+    ],
+    "answer": 2,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 205,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "ক্রিয়া প্রকৃতির সঙ্গে যে ধ্বনি বা ধ্বনিসমষ্টি যুক্ত হয় তাকে কী বলে?",
+    "options": [
+      "কৃৎ প্রত্যয়",
+      "তদ্ধিত প্রত্যয়",
+      "প্রকৃতি ও প্রত্যয়",
+      "ষ্ণিক (ইক) প্রত্যয়"
+    ],
+    "answer": 0,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 206,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Hard",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "‘মুক্ত’ শব্দের সঠিক প্রকৃতি ও প্রত্যয় কোনটি?",
+    "options": [
+      "√মু + ক্ত",
+      "√মুক্ত + ত",
+      "√মুহ্ + ক্ত",
+      "√মুচ + ক্ত"
+    ],
+    "answer": 3,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 207,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "‘চোর’ শব্দে ‘আ’ যুক্ত হলে কী অর্থ প্রকাশ করে?",
+    "options": [
+      "শ্রদ্ধা",
+      "অবজ্ঞা",
+      "সৃদশ্য",
+      "সামীপ্য"
+    ],
+    "answer": 1,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 208,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "শব্দের যে অংশকে আর কোনো ক্ষুদ্রতর অংশে ভাগ করা যায় না তাকে কী বলে?",
+    "options": [
+      "উপসর্গ",
+      "অনুসর্গ",
+      "প্রকৃতি",
+      "প্রত্যয়"
+    ],
+    "answer": 2,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 209,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Easy",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "তদ্ধিত প্রত্যয় কয় প্রকার?",
+    "options": [
+      "দুই",
+      "তিন",
+      "চার",
+      "পাঁচ"
+    ],
+    "answer": 1,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 210,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "কৃৎ প্রত্যয়যোগে গঠিত শব্দের উদাহরণ কোনটি?",
+    "options": [
+      "ধন + ঈ = ধনী",
+      "জ্ঞান + বান = জ্ঞানবান",
+      "শীত + অল = শীতল",
+      "কৃ + তব্য = কর্তব্য"
+    ],
+    "answer": 3,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 211,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "multiple",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "শব্দ কিংবা পদ থেকে যা অপসারণ করলে প্রকৃতি পাওয়া যায়-",
+    "options": [
+      "i",
+      "i ও ii",
+      "i ও iii",
+      "i, ii ও iii"
+    ],
+    "answer": 2,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 212,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "বাংলা তদ্ধিত প্রত্যয়যোগে গঠিত শব্দ কোনটি?",
+    "options": [
+      "ঘর + আমি = ঘরামি",
+      "ধড়ি = বাজ = ধড়িবাজ",
+      "মনু + ষ্ণ = মানব",
+      "ডাক্তার + খানা = ডাক্তারখানা"
+    ],
+    "answer": 0,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 213,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Easy",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "প্রকৃতি কয় প্রকার?",
+    "options": [
+      "দুই",
+      "তিন",
+      "চার",
+      "পাঁচ"
+    ],
+    "answer": 0,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 214,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "ক্রিয়া-প্রকৃতির অপর নাম কী?",
+    "options": [
+      "প্রাতিপদিক",
+      "ধাতু",
+      "নাম প্রকৃতি",
+      "সংজ্ঞা প্রকৃতি"
+    ],
+    "answer": 1,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 215,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Easy",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "একটি সার্থক বাক্যের কয়টি গুণ থাকে?",
+    "options": [
+      "২টি",
+      "৩টি",
+      "৪টি",
+      "৫টি"
+    ],
+    "answer": 1,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 216,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Easy",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "বাংলা বাক্যে ক্রিয়া পদ সাধারণত কোথায় বসে?",
+    "options": [
+      "বাক্যের শুরুতে",
+      "বাক্যের মাঝে",
+      "বাক্যের শেষে",
+      "বাক্যের যে কোনো স্থানে"
+    ],
+    "answer": 2,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 217,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "বাক্যে অর্থসংজতি রক্ষাকে কী বলে?",
+    "options": [
+      "যোগ্যতা",
+      "আকাক্সক্ষা",
+      "আসত্তি",
+      "উদ্দেশ্য"
+    ],
+    "answer": 0,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 218,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "নিচের কোনটি সার্থক বাক্য নয়?",
+    "options": [
+      "আমি বাড়ি খাব",
+      "আমি ভাত খাব",
+      "আমি বই পড়ব",
+      "আমি ছবি দেখব"
+    ],
+    "answer": 0,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 219,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "“আমরা অনুষ্ঠানে সমবেত কণ্ঠে গান গাইব।”-এ বাক্যটিতে কর্তা কোনটি?",
+    "options": [
+      "সমবেত",
+      "গান",
+      "আমরা",
+      "গাইব"
+    ],
+    "answer": 2,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 220,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Easy",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "বাক্যের কয়টি অংশ থাকে?",
+    "options": [
+      "দুটি",
+      "তিনটি",
+      "চারটি",
+      "পাঁচটি"
+    ],
+    "answer": 0,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 221,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "একটি সার্থক বাক্য গঠনে কী কী শর্ত থাকতে হয়?",
+    "options": [
+      "আসত্তি, যোগ্যতা ও আকাক্সক্ষা",
+      "আকাক্সক্ষা ও আসত্তি, বাগ্বিধি ও যোগ্যতা",
+      "আসত্তি ও যোগ্যতা",
+      "আকাক্সক্ষা ও আসত্তি"
+    ],
+    "answer": 0,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 222,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "প্রয়োজনের অতিরিক্ত শব্দ ব্যবহারে বাক্যে কোন গুণটি হারায়?",
+    "options": [
+      "বাহুল্য",
+      "যোগ্যতা",
+      "আকাক্সক্ষা",
+      "আসত্তি"
+    ],
+    "answer": 1,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 223,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "বাক্যের অর্থ পরিষ্কারভাবে বোঝার জন্যে এক পদের পর অন্য পদ শোনার ইচ্ছাকে কী বলে?",
+    "options": [
+      "আকাক্সক্ষা",
+      "যোগ্যতা",
+      "আসত্তি",
+      "অর্থসংগতি"
+    ],
+    "answer": 0,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 224,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "পরস্পর নিরপেক্ষ দুই বা ততোধিক সরল বা মিশ্র বাক্য মিলিত হয়ে একটি সম্পূর্ণ বাক্য গঠন করলে তাকে কী বলে?",
+    "options": [
+      "সরল বাক্য",
+      "মিশ্র বাক্য",
+      "যৌগিক বাক্য",
+      "প্রধান খণ্ডবাক্য"
+    ],
+    "answer": 2,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 225,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "একটিমাত্র কর্তা ও একটিমাত্র সমাপিকা ক্রিয়ার দ্বারা গঠিত বাক্যকে কী বলে?",
+    "options": [
+      "সরল বাক্য",
+      "জটিল বাক্য",
+      "মিশ্র বাক্য",
+      "যৌগিক বাক্য"
+    ],
+    "answer": 0,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 226,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "বাক্যে উপমা-অলঙ্কার যথাযথভাবে ব্যবহার না করলে কোন গুণ নষ্ট হয়?",
+    "options": [
+      "আকাক্সক্ষা",
+      "আসত্তি",
+      "যোগ্যতা",
+      "অর্থবাচকতা"
+    ],
+    "answer": 2,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 227,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "গঠন অনুসারে বাক্যের প্রকারভেদ কী কী?",
+    "options": [
+      "প্রশ্নবোধক, নির্দেশক",
+      "জটিল, মিশ্র ও সরল",
+      "যৌগিক, মিশ্র ও জটিল",
+      "সরল, যৌগিক ও জটিল"
+    ],
+    "answer": 3,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 228,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "‘একপাল গরু মাঠে চরছে’-এ বাক্যের বিধেয় অংশ কোনটি?",
+    "options": [
+      "একপাল গরু",
+      "গরু মাঠে",
+      "মাঠে চরছে",
+      "গরু মাঠে চরছে"
+    ],
+    "answer": 2,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 229,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "কর্তা ক্রিয়ার আগে বসে-এর উদাহরণ কোনটি?",
+    "options": [
+      "রানা যায়",
+      "পাতা খায় ছাগলে",
+      "গান গায় সুমি রায়",
+      "সঙ্গে যাবে কে"
+    ],
+    "answer": 0,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 230,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Easy",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "‘ফুল ফুটেছে’ কোন বাক্যের উদাহরণ?",
+    "options": [
+      "জটিল",
+      "মিশ্র",
+      "সরল",
+      "যৌগিক"
+    ],
+    "answer": 2,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 231,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "যে বাক্যে একটি সমাপিকা ক্রিয়া থাকে তাকে কী বলে?",
+    "options": [
+      "সমাপিকা বাক্য",
+      "মিশ্র বাক্য",
+      "সরল বাক্য",
+      "বিধেয়"
+    ],
+    "answer": 2,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 232,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "জটিল বাক্যের অপর নাম কী?",
+    "options": [
+      "যৌগিক বাক্য",
+      "মিশ্র বাক্য",
+      "সরল বাক্য",
+      "বিধেয়"
+    ],
+    "answer": 1,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 233,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Hard",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "নিচের কোন বাক্যটি জটিল বাক্য?",
+    "options": [
+      "ধনীরা প্রায় কৃপণ হয়",
+      "কৃপণেরাই ধনী হয়",
+      "যারা ধনী, তারা প্রায়ই কৃপণ হয়",
+      "তিনি ধনী এবং কৃপণ"
+    ],
+    "answer": 2,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 234,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "কোনটি ভুল বাক্য?",
+    "options": [
+      "সব মানুষই মরণশীল",
+      "মানুষ মরণশীল",
+      "মানুষেরা মরণশীল",
+      "সকল মানুষেরাই মরণশীল"
+    ],
+    "answer": 3,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 235,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Easy",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "বাক্যের ‘একক’ কী?",
+    "options": [
+      "উক্তি",
+      "বিভক্তি",
+      "উপসর্গ",
+      "শব্দ"
+    ],
+    "answer": 3,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 236,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Easy",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "একটি সার্থক বাক্যের কয়টি গুণ থাকা আবশ্যক?",
+    "options": [
+      "দুটি",
+      "তিনটি",
+      "চারটি",
+      "পাঁচটি"
+    ],
+    "answer": 1,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 237,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "“তার বয়স হলেও বুদ্ধি হয়নি।”- কোন ধরনের বাক্য?",
+    "options": [
+      "যৌগিক বাক্য",
+      "সরল বাক্য",
+      "জটিল বাক্য",
+      "মিশ্র বাক্য"
+    ],
+    "answer": 1,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 238,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "multiple",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "পদের পারস্পরিক সম্বন্ধ বা অন্বয় ছাড়াও বাক্যে যা থাকে-",
+    "options": [
+      "i",
+      "i ও ii",
+      "i ও iii",
+      "i, ii ও iii"
+    ],
+    "answer": 2,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 239,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "‘আমি গিয়ে দেখলাম-’ কোন গুণের অভাবে এটি সম্পূর্ণ বাক্য হয়নি?",
+    "options": [
+      "আকাক্সক্ষা",
+      "যোগ্যতা",
+      "আসত্তি",
+      "মেলবন্ধন"
+    ],
+    "answer": 0,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 240,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "“গ্রীষ্মকালে প্রখর রৌদ্রে বন্যা হয়।” বাক্যে কোন গুণের অভাব?",
+    "options": [
+      "আকাক্সক্ষা",
+      "আগ্রহ",
+      "আসত্তি",
+      "যোগ্যতা"
+    ],
+    "answer": 3,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 241,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "বাক্যের অর্থসংগতি রক্ষার জন্য সুশৃঙ্খল পদবিন্যাসের নাম কী?",
+    "options": [
+      "আকাক্সক্ষা",
+      "যোগ্যতা",
+      "আসত্তি",
+      "ভাবগত মেলবন্ধন"
+    ],
+    "answer": 2,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 242,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Easy",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "ভাষার মূল উপকরণ কোনটি?",
+    "options": [
+      "ধ্বনি",
+      "বর্ণ",
+      "শব্দ",
+      "বাক্য"
+    ],
+    "answer": 3,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 243,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "multiple",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "বাক্যের আসত্তি গুণ হচ্ছে-",
+    "options": [
+      "i",
+      "i ও ii",
+      "i ও iii",
+      "i, ii ও iii"
+    ],
+    "answer": 1,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 244,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Easy",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "“শ্যামা স্কুলে যায়” বাক্যে উদ্দেশ্য অংশ কোনটি?",
+    "options": [
+      "শ্যামা",
+      "স্কুলে",
+      "যায়",
+      "শ্যামা"
+    ],
+    "answer": 0,
+    "group_id": "G-301",
+    "source": ""
+  },
+  {
+    "id": 245,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Easy",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "“শ্যামা স্কুলে যায়” বাক্যে বিধেয় কোনটি?",
+    "options": [
+      "শ্যামা",
+      "স্কুলে",
+      "যায়",
+      "স্কুলে যায়"
+    ],
+    "answer": 3,
+    "group_id": "G-301",
+    "source": ""
+  },
+  {
+    "id": 246,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "সাধারণত বাক্যের মূল উদ্দেশ্য কোনটি?",
+    "options": [
+      "কর্মকারক",
+      "করণ কারক",
+      "কর্তৃকারক",
+      "অপাদান কারক"
+    ],
+    "answer": 2,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 247,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Easy",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "গঠনগত দিক থেকে বাক্য কয় প্রকার?",
+    "options": [
+      "দুই",
+      "তিন",
+      "চার",
+      "পাঁচ"
+    ],
+    "answer": 1,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 248,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "multiple",
+    "difficulty": "Easy",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "সরল বাক্যের উদাহরণ হচ্ছে-",
+    "options": [
+      "i",
+      "i ও ii",
+      "i ও iii",
+      "i, ii ও iii"
+    ],
+    "answer": 1,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 249,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Easy",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "বাক্যের অন্তর্গত প্রত্যেকটি শব্দকে কী বলে?",
+    "options": [
+      "পদ",
+      "শব্দগুচ্ছ",
+      "ক্রিয়াপদ",
+      "অব্যয় পদ"
+    ],
+    "answer": 0,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 250,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "multiple",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "বিরাম চি‎েহ্নর কাজ হলো-",
+    "options": [
+      "i",
+      "i ও ii",
+      "i ও iii",
+      "i, ii ও iii"
+    ],
+    "answer": 3,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 251,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "ঊর্ধ্ব কমার অপর নাম কী?",
+    "options": [
+      "ঊর্ধ্ব চিহ্ন",
+      "লোপ চিহ্ন",
+      "দ্যোতক চিহ্ন",
+      "উদ্ধৃতি চিহ্ন"
+    ],
+    "answer": 1,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 252,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "মধ্যবর্তী পদের কোনো একটি বর্ণের ওপরে কোন চিহ্ন বসে?",
+    "options": [
+      "কমা",
+      "বর্জন চিহ্ন",
+      "ঊর্ধ্ব কমা",
+      "হাইফেন"
+    ],
+    "answer": 2,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 253,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "প্রত্যক্ষ উক্তির পূর্বে কোন চিহ্ন বসে?",
+    "options": [
+      "কমা",
+      "ঊর্ধ্বকমা",
+      "উদ্ধৃতি চিহ্ন",
+      "সেমিকোলন"
+    ],
+    "answer": 0,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 254,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "এক জাতীয় একাধিক শব্দ বাক্যে পাশাপাশি বসলে শব্দগুলোর মাঝে কোন চিহ্ন বসে?",
+    "options": [
+      "সেমিকোলন",
+      "ড্যাশ",
+      "কমা",
+      "ঊর্ধ্বকমা"
+    ],
+    "answer": 2,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 255,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Easy",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "লেখার সময় যে সব চিহ্ন ব্যবহার করে বিরাম নির্দেশ করা হয় তাকে কোন চিহ্ন বলে?",
+    "options": [
+      "বিরামচিহ্ন",
+      "প্রতীক চিহ্ন",
+      "নির্দেশিক চিহ্ন",
+      "সাংকেতিক চিহ্ন"
+    ],
+    "answer": 0,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 256,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Easy",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "বাক্যে প্রশ্ন বোঝানোর জন্য কোন চি‎হ্ন বসে?",
+    "options": [
+      "প্রশ্নবোধক চি‎হ্ন",
+      "ড্যাশ",
+      "কমা",
+      "দাঁড়ি"
+    ],
+    "answer": 0,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 257,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Easy",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "আবেগ প্রকাশের জন্য বাক্যে কোন চি‎হ্ন বসে?",
+    "options": [
+      "দাঁড়ি",
+      "সেমিকোলন",
+      "কমা",
+      "বিস্ময় চি‎হ্ন"
+    ],
+    "answer": 3,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 258,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "তারিখ লিখতে কোন চি‎হ্ন বসে?",
+    "options": [
+      "দাঁড়ি",
+      "কোলন",
+      "কমা",
+      "প্রশ্নচি‎হ্ন"
+    ],
+    "answer": 2,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 259,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Easy",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "বিস্ময়চি‎হ্ন কোনটি?",
+    "options": [
+      "?",
+      "“ ”",
+      "!",
+      ";"
+    ],
+    "answer": 2,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 260,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "বাড়ি বা রাস্তার নম্বরের পরে কোন চি‎হ্ন বসে?",
+    "options": [
+      "হাইফেন",
+      "কমা",
+      "দাঁড়ি",
+      "লোপ চি‎হ্ন"
+    ],
+    "answer": 1,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 261,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "বাক্যের শেষে দাঁড়ির পর কতক্ষণ থেমে পরের বাক্য পড়তে হয়?",
+    "options": [
+      "১ সেকেন্ড",
+      "০.৫ সেকেন্ড",
+      "২ সেকেন্ড",
+      "১.৫ সেকেন্ড"
+    ],
+    "answer": 0,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 262,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Easy",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "বাক্যের পরিসমাপ্তি বোঝাতে কোন চি‎হ্ন ব্যবহৃত হয়?",
+    "options": [
+      "কমা",
+      "কোলন",
+      "সেমিকোলন",
+      "দাঁড়ি"
+    ],
+    "answer": 3,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 263,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Easy",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "বাংলা ভাষায় যতি চি‎েহ্ন্র প্রচলন করেন কে?",
+    "options": [
+      "বঙ্কিমচন্দ্র চট্টোপাধ্যায়",
+      "ঈশ্বরচন্দ্র বিদ্যাসাগর",
+      "রবীন্দ্রনাথ ঠাকুর",
+      "প্যারীচাঁদ মিত্র"
+    ],
+    "answer": 1,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 264,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "multiple",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "বাক্যের কোথাও ১ (এক) বলতে যে সময় লাগে, সেখানে ব্যবহৃত হয়-",
+    "options": [
+      "i",
+      "i ও ii",
+      "i ও iii",
+      "i, ii ও iii"
+    ],
+    "answer": 2,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 265,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "সংশ্লিষ্ট পদের পর নিচের দিকে ব্যবহৃত হয় কোনটি?",
+    "options": [
+      "কমা",
+      "দাঁড়ি",
+      "কোলন",
+      "ড্যাশ"
+    ],
+    "answer": 0,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 266,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Easy",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "( : ) বন্ধনীর ভেতরের চি‎হ্নটির নাম কী?",
+    "options": [
+      "সেমিকোলন",
+      "কোলন",
+      "বিস্ময়চি‎হ্ন",
+      "কোলন ড্যাশ"
+    ],
+    "answer": 1,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 267,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "multiple",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "১ (এক) সেকেন্ড কাল পরিমাণ বিরতি নিতে হয়-",
+    "options": [
+      "i",
+      "i ও ii",
+      "i ও iii",
+      "i, ii ও iii"
+    ],
+    "answer": 3,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 268,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "কোন চি‎হ্নটির বিরতিরকাল পরিমাণ ১ (এক) সেকেন্ড?",
+    "options": [
+      "দাঁড়ি (।)",
+      "সেমিকোলন (;)",
+      "উদ্ধৃতি চিহ্ন (“ ”)",
+      "বন্ধনী ( )"
+    ],
+    "answer": 0,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 269,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "multiple",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "কোনো বাক্যের সমাপ্তিতে যে চিহ্ন ব্যবহৃত হয় তার নাম-",
+    "options": [
+      "i",
+      "i ও ii",
+      "i ও iii",
+      "i, ii ও iii"
+    ],
+    "answer": 2,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 270,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "জটিল বাক্যের অন্তর্গত প্রত্যেক খণ্ডবাক্যের পরে বিরামচি‎েহ্ন কোনটি বসে?",
+    "options": [
+      "বিস্ময়চি‎হ্ন ( ! )",
+      "কমা (, )",
+      "কোলন ( : )",
+      "হাইফেন ( - )"
+    ],
+    "answer": 1,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 271,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Hard",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "ধাতুদ্যোতক চি‎‎হ্ন কোনটি?",
+    "options": [
+      "<",
+      ">",
+      "#ERROR!",
+      "√"
+    ],
+    "answer": 3,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 272,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Easy",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "বাংলা বানানের নিয়ম বেঁধে দেওয়ার ক্ষেত্রে কোন প্রতিষ্ঠানটি অগ্রণী ভূমিকা পালন করে?",
+    "options": [
+      "ঢাকা বিশ্ববিদ্যালয়",
+      "এনসিটিবি",
+      "কলকাতা বিশ্ববিদ্যালয়",
+      "বাংলা একাডেমি"
+    ],
+    "answer": 3,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 273,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "নিচের কোন বানানটি অশুদ্ধ?",
+    "options": [
+      "বরণ",
+      "চরণ",
+      "ধরণ",
+      "হরণ"
+    ],
+    "answer": 2,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 274,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "বাগ্ধ্বনিকে বর্ণ বা হরফের সাহায্যে লিখিত রূপ দেওয়ার প্রক্রিয়াকে কী বলে?",
+    "options": [
+      "লেখ্যরীতি",
+      "লেখ্য ভাষা",
+      "শব্দভাণ্ডার",
+      "বানান"
+    ],
+    "answer": 3,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 275,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "multiple",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "প্রতিটি ভাষার ক্ষেত্রেই প্রয়োজন-",
+    "options": [
+      "i",
+      "i ও ii",
+      "i ও iii",
+      "i, ii ও iii"
+    ],
+    "answer": 2,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 276,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "যৌগিক শব্দ গঠনের ক্ষেত্রে বানানের নিয়মে কোনো পরিবর্তন আসবে কিনা, তা জানার উপায় কী?",
+    "options": [
+      "বানানরীতি",
+      "শব্দের উৎস",
+      "শব্দের অর্থ",
+      "শব্দের গঠন"
+    ],
+    "answer": 0,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 277,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Hard",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "কলকাতা বিশ্ববিদ্যালয় প্রস্তাবিত ‘বাংলা বানানের নিয়ম’-এর প্রথম সংস্করণ কত সালে প্রকাশিত হয়?",
+    "options": [
+      "১৯২৬",
+      "১৯৩৬",
+      "১৯৪৬",
+      "১৯৫৬"
+    ],
+    "answer": 1,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 278,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Hard",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "এনসিটিবি কত সালে বাংলা বানানের একটি নীতিমালা প্রণয়ন করে?",
+    "options": [
+      "১৯৮৬",
+      "১৯৮৭",
+      "১৯৮৮",
+      "১৯৮৯"
+    ],
+    "answer": 2,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 279,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Hard",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "বাংলা একাডেমি ‘প্রমিত বাংলা বানানের নিয়ম’ কত সালে প্রথম প্রকাশিত হয়?",
+    "options": [
+      "১৯৯২ সালের জানুয়ারি",
+      "১৯৯২ সালের ফেব্রুয়ারি",
+      "১৯৯২ সালের মার্চ",
+      "১৯৯২ সালের এপ্রিল"
+    ],
+    "answer": 0,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 280,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Easy",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "উৎসগত দিক থেকে বাংলা ভাষার শব্দসমূহ কয় ভাগে বিভক্ত?",
+    "options": [
+      "দুই",
+      "তিন",
+      "চার",
+      "পাঁচ"
+    ],
+    "answer": 3,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 281,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "সংস্কৃত ভাষা থেকে যেসব শব্দ সরাসরি বাংলায় এসেছে, সেগুলোকে কী বলা হয়?",
+    "options": [
+      "তৎসম শব্দ",
+      "তদ্ভব শব্দ",
+      "দেশি শব্দ",
+      "বিদেশি শব্দ"
+    ],
+    "answer": 0,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 282,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "বাংলা বানানের নিয়ম জানা প্রয়োজন কেন?",
+    "options": [
+      "পরীক্ষায় বেশি নম্বর",
+      "শুদ্ধ ভাষায় কবিতা",
+      "নিয়ম রক্ষার জন্য",
+      "ভাষার সামগ্রিক শৃঙ্খলা"
+    ],
+    "answer": 3,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 283,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "সংস্কৃত উৎসজাত শব্দগুলো হলো-",
+    "options": [
+      "তৎসম, অর্ধ-তৎসম, দেশি",
+      "তৎসম, অর্ধ-তৎসম, তদ্ভব",
+      "অর্ধ-তৎসম, তদ্ভব, বিদেশি",
+      "তদ্ভব, দেশি, বিদেশি"
+    ],
+    "answer": 1,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 284,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "অনার্য জাতির ভাষা থেকে কোন শব্দগুলো বাংলা ভাষায় এসেছে?",
+    "options": [
+      "তৎসম",
+      "তদ্ভব",
+      "দেশি",
+      "বিদেশি"
+    ],
+    "answer": 2,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 285,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "multiple",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "বাংলা ভাষায় ব্যবহৃত বিদেশি শব্দগুলোর মধ্যে প্রধান হচ্ছে-",
+    "options": [
+      "i",
+      "i ও ii",
+      "i ও iii",
+      "i, ii ও iii"
+    ],
+    "answer": 1,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 286,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "ণত্ব ও ষত্ব বিধান কোন শব্দের বানানের ক্ষেত্রে প্রযোজ্য?",
+    "options": [
+      "তৎসম",
+      "তদ্ভব",
+      "অর্ধ তৎসম",
+      "খাঁটি বাংলা"
+    ],
+    "answer": 0,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 287,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "তৎসম শব্দের বানানে দন্ত-ন-এর পরিবর্তে মূর্ধন্য-ণ ব্যবহারের রীতিকে কী বলে?",
+    "options": [
+      "তৎসম বিধান",
+      "ণত্ব বিধান",
+      "ষত্ব বিধান",
+      "আট বিধান"
+    ],
+    "answer": 1,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 288,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "‘ঋণ’ বানানে ‘ণ’ হলো কোন নিয়মে?",
+    "options": [
+      "‘ঋ’ এর পর ‘ণ’ হয়",
+      "প্রথমে ‘ঋ’-কারের পর",
+      "দুই বর্ণের বানানে",
+      "স্বভাবতই ‘ণ’ হয়"
+    ],
+    "answer": 0,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 289,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "নিচের কোন বানানটি সঠিক?",
+    "options": [
+      "ত্রিন",
+      "তৃণ",
+      "তৃন",
+      "তৃনো"
+    ],
+    "answer": 1,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 290,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "তৎসম শব্দের বানানে ‘র’ এর পর ‘ণ’ হয়− এই নিয়মে কোন বানানটি শুদ্ধ?",
+    "options": [
+      "পরিবাহণ",
+      "কিরণ",
+      "পরিবান",
+      "পরিব্রজণ"
+    ],
+    "answer": 1,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 291,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "নিচের কোন বানানটি শুদ্ধ?",
+    "options": [
+      "মুদ্রণ",
+      "চিত্রন",
+      "আমন্ত্রন",
+      "মিশণ"
+    ],
+    "answer": 0,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 292,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "তৎসম শব্দের বানানে রেফ এর পর ‘ণ’ হয়− এই নিয়মে কোন বানানটি শুদ্ধ?",
+    "options": [
+      "জার্ণি",
+      "অর্ণব",
+      "মূর্ধন্য",
+      "অর্গাণ"
+    ],
+    "answer": 1,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 293,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "নিচের কোন বানানটি শুদ্ধ?",
+    "options": [
+      "আকর্ষণ",
+      "নয়ণ",
+      "আলুণি",
+      "উত্তোলণ"
+    ],
+    "answer": 0,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 294,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "নিচের কোন বানানটি ণত্ব বিধানের নিয়মে হয়েছে?",
+    "options": [
+      "ক্যান্টনমেণ্ট",
+      "কণ্টক",
+      "মুভেমন্ট",
+      "হাণ্ট"
+    ],
+    "answer": 1,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 295,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "নিচের কোন বানানটি ণত্ব বিধানের নিয়মানুষারে হয়েছে?",
+    "options": [
+      "পণ্ডিত",
+      "প্রতিষ্ঠাণ",
+      "আনমণ",
+      "সেণ্টার"
+    ],
+    "answer": 0,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 296,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "কোন বানানগুচ্ছটি শুদ্ধ?",
+    "options": [
+      "চরন, ভাষণ, জাগরণ",
+      "ঘর্ষণ, সাজোয়াণ, ঋণ",
+      "নয়ণ, দীর্ণ, লক্ষণ",
+      "ঘণ্টা, দূষণ, বরণ"
+    ],
+    "answer": 3,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 297,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "‘প্র, পরি, নির’ উপসর্গের পর ‘ণ’ হয়− এই নিয়মে কোনটি সঠিক?",
+    "options": [
+      "প্রণয়",
+      "প্রচলণ",
+      "পরিদর্শণ",
+      "প্রদাণ"
+    ],
+    "answer": 0,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 298,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "কোন বানানটি শুদ্ধ?",
+    "options": [
+      "অভিবাদণ",
+      "অভিযান",
+      "প্রণতি",
+      "প্রদাণ"
+    ],
+    "answer": 2,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 299,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "কোন বানানটিতে স্বভাবতই ণত্ব বিধানের প্রয়োগ ঘটেছে?",
+    "options": [
+      "দীর্ণ",
+      "কণ্ঠ",
+      "গৌণ",
+      "অপরাহ্ন"
+    ],
+    "answer": 2,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 300,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "কোন বানানটিতে ণত্ব বিধানের প্রয়োগ ঘটে নি?",
+    "options": [
+      "কণ্টক",
+      "দুরন্ত",
+      "গণিত",
+      "পণ্য"
+    ],
+    "answer": 1,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 301,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "কোন বানানটি সঠিক?",
+    "options": [
+      "ত্রিনয়ন",
+      "চন্দ্রায়ন",
+      "অপরাহ্ন",
+      "নগন্য"
+    ],
+    "answer": 0,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 302,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "তৎসম শব্দের বানানে ‘ঋ’ বা ঋ-কারের পর ‘ষ’ হয়− কোন বানানটি এমন?",
+    "options": [
+      "বর্ষণ",
+      "কৃষক",
+      "ঈর্ষা",
+      "মহর্ষি"
+    ],
+    "answer": 1,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 303,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "বাংলা বানানে র-এর পর মূর্ধন্য-ণ ব্যবহারের উদাহরণ কোনটি?",
+    "options": [
+      "কিরণ, বিতরণ",
+      "ব্যাকরণ, ঘৃণা",
+      "উচ্চারণ, তৃণ",
+      "চরণ, চিত্রণ"
+    ],
+    "answer": 0,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 304,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "multiple",
+    "difficulty": "Hard",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "ই-কারান্ত উপসর্গের পর দন্ত্য-স মূর্ধন্য-ষ হওয়ার উদাহরণ-",
+    "options": [
+      "i",
+      "i ও ii",
+      "i ও iii",
+      "i, ii ও iii"
+    ],
+    "answer": 2,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 305,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "নিচের কোন বাক্যে ‘কাঁচা’ অর্থ অপক্ব?",
+    "options": [
+      "কাঁচা হাতের লেখা",
+      "রং একেবারেই কাঁচা",
+      "আমগুলো এখনো কাঁচা",
+      "কাঁচা ঘরবাড়ী"
+    ],
+    "answer": 2,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 306,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "নিচের কোন বাক্যে ‘হাত’ শব্দটি ভিক্ষা করা অর্থে ব্যবহৃত হয়েছে?",
+    "options": [
+      "হাত পাতা ঘৃণার কাজ",
+      "জামাটি হাতবদল হয়েছে",
+      "লোকের ওপর হাত আছে",
+      "মাঝির হাত পাকা"
+    ],
+    "answer": 0,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 307,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "“অর্থ অনর্থের মূল”-এখানে ‘অর্থ’ কী অর্থ প্রকাশ করছে?",
+    "options": [
+      "টাকাকড়ি",
+      "উদ্দেশ্য",
+      "অর্থকরী",
+      "অর্থ উপার্জন"
+    ],
+    "answer": 0,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 308,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "“জ্ঞানী-গুণীর কথা মেনে চলা উচিত”-এখানে ‘কথা’র অর্থ কী?",
+    "options": [
+      "অঙ্গীকার",
+      "অনুরোধ",
+      "প্রসঙ্গ",
+      "উপদেশ"
+    ],
+    "answer": 3,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 309,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "multiple",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "ভিন্নার্থক শব্দের ব্যবহার-",
+    "options": [
+      "i",
+      "i ও ii",
+      "i ও iii",
+      "i, ii ও iii"
+    ],
+    "answer": 2,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 310,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "“বুদ্ধিজীবীরা দেশের মাথা”-এখানে ‘মাথা’ কী অর্থে ব্যবহৃত?",
+    "options": [
+      "অপক্ব",
+      "বৃদ্ধি",
+      "মস্তক",
+      "শ্রেষ্ঠ"
+    ],
+    "answer": 3,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 311,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "“পর্বতে উঠা খুবই কষ্টকর”-এখানে ‘উঠা’ শব্দটি কী বোঝায়?",
+    "options": [
+      "উত্তোলন",
+      "আরোহণ",
+      "অবরোহণ",
+      "উচ্চারণ"
+    ],
+    "answer": 1,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 312,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "“জ্ঞানী-গুণীরা কথা ভঙ্গ করেন না”-এখানে ‘কথা’র অর্থ কী?",
+    "options": [
+      "উপদেশ",
+      "অনুরোধ",
+      "অঙ্গীকার",
+      "প্রসঙ্গ"
+    ],
+    "answer": 2,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 313,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "“সে কানকাটা স্বভাবের”-এখানে ‘কান’ কী বুঝাতে ব্যবহৃত?",
+    "options": [
+      "অঙ্গবিশেষ",
+      "প্রতিবন্ধকতা",
+      "আড়িপাতা",
+      "নির্লজ্জ"
+    ],
+    "answer": 3,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 314,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "“আমার গা কেঁপে উঠলো”-এখানে ‘গা’ শব্দটি দ্বারা কী বোঝানো হয়েছে?",
+    "options": [
+      "ভয়বোধ করা",
+      "শরীর",
+      "ক্রোধের উদ্রেক",
+      "পলায়ন করা"
+    ],
+    "answer": 0,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 315,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "“ছেলেটির ওপর চোখ রেখো”-এ বাক্যে ‘চোখ’ কী অর্থে ব্যবহৃত?",
+    "options": [
+      "রোগ বিশেষ",
+      "সতর্ক হওয়া",
+      "চক্ষুশুল",
+      "দৃষ্টি রাখা"
+    ],
+    "answer": 3,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 316,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "‘ব্যাপারটিতে তোমার হাত রয়েছে।’- এখানে ‘হাত’ দ্বারা কী বোঝায়?",
+    "options": [
+      "দক্ষতা",
+      "হস্তান্তর",
+      "প্রভাব",
+      "বশে আনা"
+    ],
+    "answer": 2,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 317,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "“টাকার অঙ্ক লিখতে ভুলে গেছে”− এখানে শেষের ‘অঙ্ক’ মানে কী?",
+    "options": [
+      "রেখা",
+      "গণিত",
+      "নাটকের অংশ",
+      "সংখ্যা"
+    ],
+    "answer": 3,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 318,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "“উপদেশ শুনে কাজ হয়েছে”− এখানে প্রথম ‘কাজ’ দ্বারা কী বোঝানো হয়েছে?",
+    "options": [
+      "চাকরি",
+      "সুফল",
+      "কারুকার্য",
+      "কোনোটিই নয়"
+    ],
+    "answer": 0,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 319,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "“পাকা মিস্ত্রী দ্বারা তৈরি”-এ বাক্যে দ্বিতীয় ‘পাকা’র অর্থ কী?",
+    "options": [
+      "শ্রেষ্ঠ",
+      "বৃহৎ",
+      "সম্ভ্রান্ত",
+      "উচ্চ"
+    ],
+    "answer": 0,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 320,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "“রান্নার ব্যাপারে সুমি একেবারেই কাঁচা”-এ বাক্যে দ্বিতীয় ‘কাঁচা’র অর্থ কী?",
+    "options": [
+      "অপক্ব",
+      "অপটু",
+      "অসিদ্ধ",
+      "অস্থায়ী"
+    ],
+    "answer": 1,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 321,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "‘অনুরাগ’-এর বিপরীত শব্দ কোনটি?",
+    "options": [
+      "রাগান্বিত",
+      "রাগের প্রকাশ",
+      "বিরাগ",
+      "অনুরক্ত"
+    ],
+    "answer": 2,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 322,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "কোনটি ‘উৎকর্ষ’ শব্দের বিপরীত শব্দ?",
+    "options": [
+      "উৎকৃষ্ট",
+      "অপকৃষ্ট",
+      "নিকৃষ্ট",
+      "অপকর্ষ"
+    ],
+    "answer": 3,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 323,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "‘আরোহণ’ শব্দের বিপরীত শব্দ কোনটি?",
+    "options": [
+      "অবরোহণ",
+      "অবতরণ",
+      "তিরোহণ",
+      "বিসর্জন"
+    ],
+    "answer": 0,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 324,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "কোনটি ‘পুরস্কার’-এর বিপরীত শব্দ?",
+    "options": [
+      "তিরস্কার",
+      "পুরস্কৃত",
+      "অপরিষ্কার",
+      "তিরস্কৃত"
+    ],
+    "answer": 0,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 325,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "‘বন্ধুর’ শব্দের বিপরীত শব্দ কোনটি?",
+    "options": [
+      "শত্রুর",
+      "মসৃণ",
+      "অমসৃণ",
+      "সমতল"
+    ],
+    "answer": 1,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 326,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Easy",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "‘পুষ্টি’-এর বিপরীত শব্দ কোনটি?",
+    "options": [
+      "মিষ্টি",
+      "বৃষ্টি",
+      "অপুষ্টি",
+      "তুষ্টি"
+    ],
+    "answer": 2,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 327,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "‘ব্যষ্টি’ শব্দের বিপরীত শব্দ কোনটি?",
+    "options": [
+      "যষ্টি",
+      "গোষ্ঠী",
+      "হৃষ্ট",
+      "সমষ্টি"
+    ],
+    "answer": 3,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 328,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "‘শ্বেত’ শব্দের বিপরীত শব্দ কোনটি?",
+    "options": [
+      "কৃষ্ণ",
+      "শ্বেতী",
+      "স্বাতী",
+      "শুভ্র"
+    ],
+    "answer": 0,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 329,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "কোনটি ‘হ্রস্ব’-শব্দের বিপরীত শব্দ?",
+    "options": [
+      "দীর্ঘ",
+      "ঋষী",
+      "বৃদ্ধি",
+      "হ্রাস"
+    ],
+    "answer": 0,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 330,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "‘আবির্ভাব’-শব্দের সঠিক বিপরীত শব্দ কোনটি?",
+    "options": [
+      "অভাব",
+      "তামার বিষ",
+      "তিরোভাব",
+      "অনুভব"
+    ],
+    "answer": 2,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 331,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "‘সদয়’-শব্দের বিপরীত শব্দ কোনটি?",
+    "options": [
+      "সুহৃদ",
+      "নিরস",
+      "নির্দয়",
+      "সদাশয়"
+    ],
+    "answer": 2,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 332,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "‘ব্যর্থ’-শব্দের সঠিক বিপরীত শব্দ কোনটি?",
+    "options": [
+      "সার্থক",
+      "স্বার্থক",
+      "পরার্থ",
+      "অনর্থ"
+    ],
+    "answer": 0,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 333,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "‘ঘাত’-শব্দের বিপরীতার্থক শব্দ কোনটি?",
+    "options": [
+      "আঘাত",
+      "আহত",
+      "প্রতিঘাত",
+      "নির্ঘাত"
+    ],
+    "answer": 2,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 334,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "‘ভূত’-শব্দের বিপরীত শব্দ কোনটি?",
+    "options": [
+      "ভবিষ্যৎ",
+      "সংশয়",
+      "পেতœী",
+      "শয়তান"
+    ],
+    "answer": 0,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 335,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "‘আকুঞ্চন’ শব্দের বিপরীত শব্দ কোনটি?",
+    "options": [
+      "বিস্তারিত",
+      "প্রসারণ",
+      "বিস্থৃতি",
+      "আবশ্যক"
+    ],
+    "answer": 1,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 336,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "‘চোখা’ শব্দের বিপরীতার্থক শব্দ কোনটি?",
+    "options": [
+      "চোখি",
+      "ভোঁতা",
+      "ডালা",
+      "বোবা"
+    ],
+    "answer": 1,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 337,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "‘প্রসারণ’-এর বিপরীতার্থক শব্দ কী?",
+    "options": [
+      "সারাংশ",
+      "আকুঞ্চন",
+      "আকর্ষণ",
+      "বহিরঙ্গ"
+    ],
+    "answer": 1,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 338,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "‘সচেষ্ট’ শব্দের বিপরীতার্থক শব্দ কোনটি?",
+    "options": [
+      "প্রচেষ্ট",
+      "নিশ্চেষ্ট",
+      "যথেষ্ট",
+      "নিরত"
+    ],
+    "answer": 1,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 339,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "নিচের কোনটি ‘গৃহী’ শব্দের বিপরীত শব্দ?",
+    "options": [
+      "অরণ্যবাসী",
+      "গৃহাবাসী",
+      "সন্ন্যাসী",
+      "আদিবাসী"
+    ],
+    "answer": 2,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 340,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "multiple",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "বিপরীতার্থক শব্দ-",
+    "options": [
+      "i",
+      "i ও ii",
+      "i ও iii",
+      "i, ii ও iii"
+    ],
+    "answer": 3,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 341,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "‘উত্তম’ শব্দের যথার্থ বিপরীতার্থক প্রয়োগ ঘটেছে কোন বাক্যে?",
+    "options": [
+      "উত্তম মধ্যমের সাথে",
+      "উত্তম চলে নিকৃষ্টের সাথে",
+      "উত্তম চলে উত্তম সাথে",
+      "উত্তম চলে মধ্যমের সাথে"
+    ],
+    "answer": 1,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 342,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "‘লক্ষ’ ও ‘লক্ষ্য’ শব্দ দুটি কী?",
+    "options": [
+      "সমোচ্চারিত ভিন্নার্থক",
+      "সমোচ্চারিত অভিন্ন",
+      "পারিভাষিক শব্দ",
+      "দেশি ও তৎসম শব্দ"
+    ],
+    "answer": 0,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 343,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "‘শুচি’ এর সমোচ্চারিত ভিন্নার্থক শব্দ কোনটি?",
+    "options": [
+      "শুচী",
+      "সুচি",
+      "সূচি",
+      "ষুচী"
+    ],
+    "answer": 2,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 344,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "“সাক্ষর হলেই স্বাক্ষর দিতে পারে”− এখানে ‘সাক্ষর’ অর্থ কী?",
+    "options": [
+      "দস্তখত",
+      "অক্ষরজ্ঞান সম্পন্ন",
+      "নিরক্ষর",
+      "মূর্খ"
+    ],
+    "answer": 1,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 345,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "‘উপাদান’ ও ‘উপাধান’-এর অর্থ কী?",
+    "options": [
+      "উপকরণ ও বালিশ",
+      "বালিশ ও পথ্য",
+      "পথ্য ও বিছানা",
+      "শীতল ও চাদর"
+    ],
+    "answer": 0,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 346,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "‘অংশ’ এর সমোচ্চারিত ভিন্নার্থক শব্দ কোনটি?",
+    "options": [
+      "অংষ",
+      "অংস",
+      "অংশো",
+      "অস্থায়ী"
+    ],
+    "answer": 1,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 347,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "“নিজে অন্ন খেয়ে অন্যকেও দাও”-এখানে ‘অন্ন’ শব্দের অর্থ কী?",
+    "options": [
+      "ভাত",
+      "অপর",
+      "গরিব",
+      "অসহায়"
+    ],
+    "answer": 0,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 348,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "‘কুল’ -শব্দের সমোচ্চারিত ভিন্নার্থক শব্দ কোনটি?",
+    "options": [
+      "কোল",
+      "কূল",
+      "কৌল",
+      "কোনোটিই নয়"
+    ],
+    "answer": 1,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 349,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "“গাঁ থেকে ফিরে গা খারাপ করলো”− এখানে ‘গাঁ’ মানে কী?",
+    "options": [
+      "শরীর",
+      "পচন",
+      "স্থান",
+      "গ্রাম"
+    ],
+    "answer": 3,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 350,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "‘অবিরাম বৃষ্টি ধারা দেখতে অভিরাম লাগছে’− ‘অভিরাম’ মানে কী?",
+    "options": [
+      "অনবরত",
+      "সুন্দর",
+      "বিশ্রী",
+      "উজ্জ্বল"
+    ],
+    "answer": 1,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 351,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "‘দিন’ এর সমোচ্চারিত ভিন্নার্থক শব্দ কোনটি?",
+    "options": [
+      "দীন",
+      "দ্বিন",
+      "ধিন",
+      "দিণ"
+    ],
+    "answer": 0,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 352,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "“এই নির্জন দ্বীপের জঙ্গলে অনেক দ্বিপ আছে।” এখানে ‘দ্বিপ’ শব্দের অর্থ কী?",
+    "options": [
+      "জলবেষ্টিত স্থান",
+      "হরিণ",
+      "বাঘ",
+      "হাতি"
+    ],
+    "answer": 3,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 353,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "“পানিতে পাণি দিও না”-এখানে ‘পাণি’ শব্দের অর্থ কী?",
+    "options": [
+      "জল",
+      "হাত",
+      "পা",
+      "আঙ্গুল"
+    ],
+    "answer": 1,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 354,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "‘বিনা’ শব্দের সমোচ্চারিত ভিন্নার্থক শব্দ কোনটি?",
+    "options": [
+      "বিণা",
+      "বীনা",
+      "ভিনা",
+      "বীণা"
+    ],
+    "answer": 3,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 355,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "multiple",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "“লঙ্কার রাজা রাবণের দশ মুখ”-এখানে ‘মুখ’ শব্দটির অর্থ হচ্ছে-",
+    "options": [
+      "i",
+      "i ও ii",
+      "i ও iii",
+      "i, ii ও iii"
+    ],
+    "answer": 2,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 356,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "multiple",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "‘আপণ’ ও ‘আপন’ শব্দের অর্থ হচ্ছে-",
+    "options": [
+      "i",
+      "i ও ii",
+      "i ও iii",
+      "i, ii ও iii"
+    ],
+    "answer": 2,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 357,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "“কোথাও উঁচু কোথাও নিচু”- এক কথায় প্রকাশ করলে কী হয়?",
+    "options": [
+      "বন্ধুর",
+      "উঁচু-নিচু",
+      "অসমতল",
+      "অমসৃণ"
+    ],
+    "answer": 0,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 358,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "“যিনি বক্তৃতা দানে পটু” তাকে এক কথায় কী বলে?",
+    "options": [
+      "বক্তা",
+      "বাচল",
+      "বাগ্মী",
+      "মিতভাষী"
+    ],
+    "answer": 2,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 359,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "“যা বলা যায় না” বা যা বলার যোগ্য নয় তাকে এক কথায় কী বলে?",
+    "options": [
+      "অকথ্য",
+      "অব্যক্ত",
+      "অনুক্ত",
+      "দুর্বাচ্য"
+    ],
+    "answer": 0,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 360,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Hard",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "“মৃতের মতো অবস্থা যার”-তাকে এক কথায় কী বলে?",
+    "options": [
+      "মুমুর্স",
+      "মুমূর্ষু",
+      "মুমুর্ষ",
+      "মুমুর্ষূ"
+    ],
+    "answer": 1,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 361,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "“যিনি ভালো ব্যাকরণ জানেন”-তাকে এক কথায় কী বলে?",
+    "options": [
+      "ব্যাকরণ বিশেষজ্ঞ",
+      "ব্যাকরণবিদ",
+      "বৈয়াকরণিক",
+      "বৈয়াকরণ"
+    ],
+    "answer": 3,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 362,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Easy",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "বাক্য সংক্ষেপণ কয় ভাগে বিভক্ত হতে পারে?",
+    "options": [
+      "২ ভাগে",
+      "৩ ভাগে",
+      "৪ ভাগে",
+      "৫ ভাগে"
+    ],
+    "answer": 1,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 363,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "ইতিহাস বিষয়ে অভিজ্ঞ যিনি-তাকে এক কথায় কী বলা হয়?",
+    "options": [
+      "ইতিহাসবেত্তা",
+      "ঐতিহাসিক",
+      "ইতিহাস স্রষ্টা",
+      "ইতিহাস রচয়িতা"
+    ],
+    "answer": 0,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 364,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "‘কই মাছের প্রাণ’ বলতে কী বুঝায়?",
+    "options": [
+      "যা সহজে মরে না",
+      "এক জাতের মাছ",
+      "মাছের প্রাণ স্থায়ী নয়",
+      "কই মাছ খুব শক্তিশালী"
+    ],
+    "answer": 0,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 365,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "নিচের কোন বাক্যে ‘অর্ধচন্দ্র’ বাগ্ধারার সঠিক প্রয়োগ হয়েছে?",
+    "options": [
+      "বালকটিকে অর্ধচন্দ্র দেখাও",
+      "চোরটিকে অর্ধচন্দ্র দিয়ে বের কর",
+      "আকাশে অর্ধচন্দ্র দেখা যায়",
+      "মা শিশুকে অর্ধচন্দ্র দেখাচ্ছে"
+    ],
+    "answer": 1,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 366,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "‘তামার বিষ’ বাগ্ধারাটির অর্থ কী?",
+    "options": [
+      "অর্থের অভাব",
+      "অর্থের প্রাচুর্য",
+      "অর্থের কুপ্রভাব",
+      "অর্থের অহংকার"
+    ],
+    "answer": 2,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 367,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "‘চির অশান্তি’ অর্থে কোন বাগ্ধারাটি যথোপযুক্ত?",
+    "options": [
+      "ভরাডুবি",
+      "তামার বিষ",
+      "পটল তোলা",
+      "রাবণের চিতা"
+    ],
+    "answer": 3,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 368,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Hard",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "কোন বাগধারাটি ভিন্ন অর্থ প্রকাশক?",
+    "options": [
+      "মণিকাঞ্চন যোগ",
+      "সোনায় সোহাগা",
+      "আম-দুধে মেশা",
+      "আদায় কাঁচকলায়"
+    ],
+    "answer": 3,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 369,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "‘আকাশ কুসুম’ কথাটির অর্থ কী?",
+    "options": [
+      "বিপদে পড়া",
+      "একমাত্র অবলম্বন",
+      "অসম্ভব কল্পনা",
+      "ভয়াবহ সন্ধ্যা"
+    ],
+    "answer": 2,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 370,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "‘গোঁফখেজুরে’ কোন অর্থে ব্যবহৃত হয়?",
+    "options": [
+      "ডাকাবুকা",
+      "তুলসী বনের বাঘ",
+      "তামার বিষ",
+      "অলস"
+    ],
+    "answer": 3,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 371,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "‘শাঁখের করাত’ বাগ্ধারাটির অর্থ কী?",
+    "options": [
+      "রোগ বিশেষ",
+      "উভয় সংকট",
+      "অন্ধ অনুকরণ",
+      "অনুকরণপ্রিয়তা"
+    ],
+    "answer": 1,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 372,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "‘মুহূর্তে অভিমান ভোলা’− এ অর্থে কোন বাগধারাটি ব্যবহৃত হয়?",
+    "options": [
+      "বিড়াল তপস্বী",
+      "বিড়ালের আড়াই পাক",
+      "ভেজা বিড়াল",
+      "ভুঁইফোঁড়"
+    ],
+    "answer": 1,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 373,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "নিচের কোন বাগ্ধারাটি দ্বারা ‘পার্থক্য’ অর্থ বোঝায়?",
+    "options": [
+      "ইতরবিশেষ",
+      "আকাশ পাতাল",
+      "রুই-কাতলা",
+      "আকাশ কুসুম"
+    ],
+    "answer": 0,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 374,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "‘শরতের শিশির’ বাগ্ধারাটির অর্থ কী?",
+    "options": [
+      "সচেতন হওয়া",
+      "কাশফুলের শিশির",
+      "দুঃসময়ের বন্ধু",
+      "ক্ষণস্থায়ী"
+    ],
+    "answer": 3,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 375,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "‘চক্ষুদান করা’− বাগ্ধারাটির অর্থ কী?",
+    "options": [
+      "কাউকে চোখ দান করা",
+      "চুরি করা",
+      "দুঃসময়ের বন্ধু",
+      "ক্ষণস্থায়ী"
+    ],
+    "answer": 1,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 376,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "‘ফপরদালালি’−বাগ্ধারাটির অর্থ কী?",
+    "options": [
+      "অতিরিক্ত চালবাজি",
+      "কাণ্ডজ্ঞানহীন",
+      "গোপনে কাজ সমাধা",
+      "অযথা শ্রম"
+    ],
+    "answer": 0,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 377,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "কোন বাগ্ধারাটির অর্থ ‘বেহায়া’?",
+    "options": [
+      "ঠোঁটকাটা",
+      "কানকাটা",
+      "জিলাপির প্যাঁচ",
+      "চিনির বলদ"
+    ],
+    "answer": 1,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 378,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "‘সৌভাগ্যের বিষয়’− অর্থে কোন বাগ্ধারাটির ব্যবহৃত হতে পারে?",
+    "options": [
+      "কেউকেটো",
+      "একাদশে বৃহস্পতি",
+      "এলাহি কাণ্ড",
+      "গোঁফখেজুরে"
+    ],
+    "answer": 1,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 379,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "কোন বাগধারাটির অর্থ অপূর্ব মিলন?",
+    "options": [
+      "মণিকাঞ্চন যোগ",
+      "আম দুধে মেশা",
+      "আদায় কাঁচকলায়",
+      "শিরে সংক্রান্তি"
+    ],
+    "answer": 0,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 380,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "‘শকুনি মামা’ অর্থ কী?",
+    "options": [
+      "কুৎসিত মামা",
+      "সৎমামা",
+      "কুচক্রী লোক",
+      "পাতানো মামা"
+    ],
+    "answer": 2,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 381,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "‘বাঁ হাতের কাজ’ বাগ্ধারাটির অর্থ কী?",
+    "options": [
+      "অপকর্ম",
+      "ঘুষ খাওয়া",
+      "কঠিন",
+      "মোলাকাত করা"
+    ],
+    "answer": 1,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 382,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "কোন বাগ্ধারাটির অর্থ বিরাট আয়োজন?",
+    "options": [
+      "কপাল ফেরা",
+      "আধকপালে",
+      "এলাহি কাণ্ড",
+      "কড়ায়গণ্ডায়"
+    ],
+    "answer": 2,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 383,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "‘অহি-নকূল’ বাগ্ধারাটির অর্থ কী?",
+    "options": [
+      "ভীষণ শত্রুতা",
+      "সামান্য লোক",
+      "উঠেপড়ে লাগা",
+      "কঠিন অবস্থা"
+    ],
+    "answer": 0,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 384,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "‘এসপার ওসপার’ বাগ্ধারাটির অর্থ কী?",
+    "options": [
+      "এদিক অথবা ওদিক",
+      "মীমাংসা",
+      "এই পারে অথবা ঐ পারে",
+      "এ রকম অথবা ঐ রকম"
+    ],
+    "answer": 1,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 385,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "‘গোবর গণেশ’ বাগ্ধারাটির অর্থ কী?",
+    "options": [
+      "গোবরের মতো আবর্জনা",
+      "বোকা",
+      "চালাক",
+      "মুর্খ"
+    ],
+    "answer": 3,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 386,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "‘গোড়ায় গলদ’ বাগ্ধারাটির অর্থ কী?",
+    "options": [
+      "বেশি ভুল",
+      "ভুল জিনিস",
+      "শুরুতে ভুল",
+      "অল্প ভুল"
+    ],
+    "answer": 2,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 387,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "‘গোল্লায় যাওয়া’ বাগ্ধারাটির অর্থ কী?",
+    "options": [
+      "নষ্ট হওয়া",
+      "খারাপ কাজে যাওয়া",
+      "অসৎ কাজ করা",
+      "দোষের কাজ করা"
+    ],
+    "answer": 0,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 388,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "‘নিখাদ’ অর্থে ‘কাঁচা’ শব্দের ব্যবহার কোনটি?",
+    "options": [
+      "কাঁচা কথা",
+      "কাঁচা ইট",
+      "কাঁচা বয়স",
+      "কাঁচা সোনা"
+    ],
+    "answer": 3,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 389,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "‘উভয় সংকট’-এর প্রবাদ হলো-",
+    "options": [
+      "কিল খেলে কিল চুরি",
+      "গাছে না উঠতেই এক কাঁদি",
+      "কুল রাখি না শ্যাম রাখি",
+      "ঘর থাকতে বাবুই ভেজা"
+    ],
+    "answer": 2,
+    "group_id": "",
+    "source": ""
+  },
+  {
+    "id": 390,
+    "class": 7,
+    "subject": "বাংলা ২য়",
+    "type": "standard",
+    "difficulty": "Medium",
+    "stimulus": "",
+    "sub_options": "",
+    "question": "‘দুধের মাছি’-প্রবাদটির অর্থ কী?",
+    "options": [
+      "সুসময়ের বন্ধু",
+      "স্বার্থপর ব্যক্তি",
+      "বেহায়া",
+      "চালবাজ লোক"
+    ],
+    "answer": 0,
+    "group_id": "",
+    "source": ""
+  }
+]
