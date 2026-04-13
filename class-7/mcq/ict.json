@@ -31,7 +31,7 @@
     "Option_2": "সেগুলো আমাদের জীবনে প্রভাব ফেলে না",
     "Option_3": "সেগুলো আমাদের জীবনে প্রভাব নাও ফেলতে পারে",
     "Option_4": "সেগুলো আমাদের জীবনে অবশ্যই প্রভাব ফেলবে",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -265,7 +265,7 @@
     "Option_2": "Generation pocket service",
     "Option_3": "Gentle pocket service",
     "Option_4": "General pocket socket",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -409,7 +409,7 @@
     "Option_2": "ডাটা বিশ্লেষণ করে",
     "Option_3": "ফোন করে",
     "Option_4": "ছবি দেখে",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -481,7 +481,7 @@
     "Option_2": "বিমানে",
     "Option_3": "নভোযানে",
     "Option_4": "বিদেশে",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -535,7 +535,7 @@
     "Option_2": "গ্লোবালি",
     "Option_3": "প্র্যাকটিক্যালি",
     "Option_4": "মেন্টালি",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -643,7 +643,7 @@
     "Option_2": "i ও iii",
     "Option_3": "ii ও iii",
     "Option_4": "i, ii ও iii",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -805,7 +805,7 @@
     "Option_2": "সংকেত",
     "Option_3": "উপাত্ত",
     "Option_4": "পাসওয়ার্ড",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -895,7 +895,7 @@
     "Option_2": "ইলেকট্রশন বুক",
     "Option_3": "ইলেকট্রিক বুজ",
     "Option_4": "ইলেকট্রন বুক",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -985,7 +985,7 @@
     "Option_2": "টেলিভিশন",
     "Option_3": "মোবাইল",
     "Option_4": "পুলিশ",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -1003,7 +1003,7 @@
     "Option_2": "জিনোম",
     "Option_3": "গবেষণা",
     "Option_4": "বিকাশ",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -1039,7 +1039,7 @@
     "Option_2": "i ও iii",
     "Option_3": "ii ও iii",
     "Option_4": "i, ii ও iii",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -1075,7 +1075,7 @@
     "Option_2": "i ও iii",
     "Option_3": "ii ও iii",
     "Option_4": "i, ii ও iii",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -1111,7 +1111,7 @@
     "Option_2": "i ও iii",
     "Option_3": "ii ও iii",
     "Option_4": "i, ii ও iii",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -1345,7 +1345,7 @@
     "Option_2": "বৈদ্যুতিক তার",
     "Option_3": "সাবমেরিন কেবল",
     "Option_4": "এডাপ্টর",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -1381,7 +1381,7 @@
     "Option_2": "বড়",
     "Option_3": "বর্গাকার",
     "Option_4": "আয়তাকার",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -1471,7 +1471,7 @@
     "Option_2": "সুইচ বন্ধ করে",
     "Option_3": "সুইচ উঠিয়ে",
     "Option_4": "মুহূর্তের মধ্যে",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -1489,7 +1489,7 @@
     "Option_2": "কম্পিউটার ব্যবহার",
     "Option_3": "অফিস পরিচালনা",
     "Option_4": "ই-কমার্স",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -1507,7 +1507,7 @@
     "Option_2": "i ও iii",
     "Option_3": "ii ও iii",
     "Option_4": "i, ii ও iii",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -1615,7 +1615,7 @@
     "Option_2": "i ও iii",
     "Option_3": "ii ও iii",
     "Option_4": "i, ii ও iii",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "G-103",
     "Source": ""
   },
@@ -1795,7 +1795,7 @@
     "Option_2": "১৯৮৪",
     "Option_3": "১৯৯৪",
     "Option_4": "১৯৯৫",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -1867,7 +1867,7 @@
     "Option_2": "কম্পিউটার অফিস",
     "Option_3": "ইকোচুয়াল অফিস",
     "Option_4": "ইনচুয়াল অফিস",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -1939,7 +1939,7 @@
     "Option_2": "i ও iii",
     "Option_3": "ii ও iii",
     "Option_4": "i, ii ও iii",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -1975,7 +1975,7 @@
     "Option_2": "i ও ii",
     "Option_3": "ii ও iii",
     "Option_4": "i, ii ও iii",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -2011,7 +2011,7 @@
     "Option_2": "i ও iii",
     "Option_3": "ii ও iii",
     "Option_4": "i, ii ও iii",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -2083,7 +2083,7 @@
     "Option_2": "বিফিটিং",
     "Option_3": "ডিভার্টিং",
     "Option_4": "প্যানেলিং",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -2173,7 +2173,7 @@
     "Option_2": "মানুষের চেয়ে মেশিন ভালো করে",
     "Option_3": "রোবটের চেয়ে মানুষেরা ভালো করে",
     "Option_4": "রোবটের চেয়ে মেশিন ভালো করে",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -2389,7 +2389,7 @@
     "Option_2": "i ও iii",
     "Option_3": "ii ও iii",
     "Option_4": "i, ii ও iii",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -2407,7 +2407,7 @@
     "Option_2": "i ও iii",
     "Option_3": "ii ও iii",
     "Option_4": "i, ii ও iii",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -2443,7 +2443,7 @@
     "Option_2": "i ও iii",
     "Option_3": "ii ও iii",
     "Option_4": "i, ii ও iii",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -2479,7 +2479,7 @@
     "Option_2": "i ও iii",
     "Option_3": "ii ও iii",
     "Option_4": "i, ii ও iii",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -2497,7 +2497,7 @@
     "Option_2": "কম্পিউটার",
     "Option_3": "মেশিন",
     "Option_4": "রাউটার",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "G-105",
     "Source": ""
   },
@@ -2641,7 +2641,7 @@
     "Option_2": "ডাকযোগে কার্ড পাঠিয়ে",
     "Option_3": "সরাসরি তার বাড়িতে গিয়ে",
     "Option_4": "মুঠোফোনে ফোন করে",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -2659,7 +2659,7 @@
     "Option_2": "তিন",
     "Option_3": "চার",
     "Option_4": "পাঁচ",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -2677,7 +2677,7 @@
     "Option_2": "কম্পিউটারে",
     "Option_3": "সুপার মার্কেটে",
     "Option_4": "পৌর বাজারে",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -2731,7 +2731,7 @@
     "Option_2": "ইল্যান্স",
     "Option_3": "ওলফ্রাম আলফা",
     "Option_4": "ওডেস্ক",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -2857,7 +2857,7 @@
     "Option_2": "কম্পিউটার",
     "Option_3": "ল্যাপটপ",
     "Option_4": "ই-বুক রিডার",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -2947,7 +2947,7 @@
     "Option_2": "i ও iii",
     "Option_3": "ii ও iii",
     "Option_4": "i, ii ও iii",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -2965,7 +2965,7 @@
     "Option_2": "i ও iii",
     "Option_3": "ii ও iii",
     "Option_4": "i, ii ও iii",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -3001,7 +3001,7 @@
     "Option_2": "i ও iii",
     "Option_3": "ii ও iii",
     "Option_4": "i, ii ও iii",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -3325,7 +3325,7 @@
     "Option_2": "ল্যাপটপ",
     "Option_3": "প্রিন্টার",
     "Option_4": "ডেস্কটপ",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -3343,7 +3343,7 @@
     "Option_2": "খাবারের অর্ডার দেওয়া যায়",
     "Option_3": "গিফট পাঠানো যায়",
     "Option_4": "চিকিৎসা সেবা পাওয়া যায়",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -3397,7 +3397,7 @@
     "Option_2": "ইয়াহু",
     "Option_3": "টুইটার",
     "Option_4": "জোম্পা",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -3577,7 +3577,7 @@
     "Option_2": "i ও iii",
     "Option_3": "ii ও iii",
     "Option_4": "i, ii ও iii",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -3613,7 +3613,7 @@
     "Option_2": "i ও iii",
     "Option_3": "ii ও iii",
     "Option_4": "i, ii ও iii",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -3685,7 +3685,7 @@
     "Option_2": "i ও iii",
     "Option_3": "ii ও iii",
     "Option_4": "i, ii ও iii",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -3775,7 +3775,7 @@
     "Option_2": "মাউস",
     "Option_3": "র‍্যাম",
     "Option_4": "মাইক্রোফোন",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -3955,7 +3955,7 @@
     "Option_2": "ওয়েব ক্যাম",
     "Option_3": "ডিজিটাল ক্যামেরা",
     "Option_4": "ওএমআর",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -3991,7 +3991,7 @@
     "Option_2": "মাইক্রোফোন",
     "Option_3": "ওয়েব ক্যামেরা",
     "Option_4": "মাউস",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -4045,7 +4045,7 @@
     "Option_2": "i ও iii",
     "Option_3": "ii ও iii",
     "Option_4": "i, ii ও iii",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -4063,7 +4063,7 @@
     "Option_2": "i ও iii",
     "Option_3": "ii ও iii",
     "Option_4": "i, ii ও iii",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -4207,7 +4207,7 @@
     "Option_2": "i ও iii",
     "Option_3": "ii ও iii",
     "Option_4": "i, ii ও iii",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "G-201",
     "Source": ""
   },
@@ -4243,7 +4243,7 @@
     "Option_2": "আউটপুট যন্ত্র",
     "Option_3": "সহায়ক স্মৃতি",
     "Option_4": "স্টোরেজ ডিভাইস",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -4333,7 +4333,7 @@
     "Option_2": "ওয়ার্ল্ড ওয়াইড কনফারেন্সে এর ব্যবহার",
     "Option_3": "ওয়ার্ল্ড কম্পিউটার নেটওয়ার্কে এর ব্যবহার",
     "Option_4": "ওয়ার্ল্ড ইন্টারনেট কারেকশনে এর ব্যবহার",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -4351,7 +4351,7 @@
     "Option_2": "আউটপুট",
     "Option_3": "স্টোরেজ",
     "Option_4": "মডেল",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -4495,7 +4495,7 @@
     "Option_2": "মাইক্রোফোনের মতো",
     "Option_3": "কী-বোর্ডের মতো",
     "Option_4": "প্রিন্টারের মতো",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -4567,7 +4567,7 @@
     "Option_2": "i ও iii",
     "Option_3": "ii ও iii",
     "Option_4": "i, ii ও iii",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -4657,7 +4657,7 @@
     "Option_2": "i ও iii",
     "Option_3": "ii ও iii",
     "Option_4": "i, ii ও iii",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -4675,7 +4675,7 @@
     "Option_2": "i ও iii",
     "Option_3": "ii ও iii",
     "Option_4": "i, ii ও iii",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -4729,7 +4729,7 @@
     "Option_2": "মেমোরিকার্ড",
     "Option_3": "অপটিক্যাল মার্ক",
     "Option_4": "হার্ডডিস্ক",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -4765,7 +4765,7 @@
     "Option_2": "তিন",
     "Option_3": "চার",
     "Option_4": "পাঁচ",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -4963,7 +4963,7 @@
     "Option_2": "সহায়ক মেমোরি থেকে তথ্য RAM এ যায় বলে",
     "Option_3": "RAM থেকে তথ্য সহায়ক মেমোরিতে যায় বলে",
     "Option_4": "RAM নিজেই তথ্য প্রক্রিয়াকরণ করে বলে",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -4999,7 +4999,7 @@
     "Option_2": "হার্ডডিস্কে",
     "Option_3": "রমে",
     "Option_4": "ফ্লপিডিস্কে",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -5053,7 +5053,7 @@
     "Option_2": "2 kB",
     "Option_3": "3 kB",
     "Option_4": "4 kB",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -5251,7 +5251,7 @@
     "Option_2": "i ও iii",
     "Option_3": "ii ও iii",
     "Option_4": "i, ii ও iii",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -5269,7 +5269,7 @@
     "Option_2": "i ও iii",
     "Option_3": "ii ও iii",
     "Option_4": "i, ii ও iii",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -5305,7 +5305,7 @@
     "Option_2": "i ও iii",
     "Option_3": "ii ও iii",
     "Option_4": "i, ii ও iii",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "G-203",
     "Source": ""
   },
@@ -5377,7 +5377,7 @@
     "Option_2": "তথ্য প্রক্রিয়াকরণ ক্ষমতা",
     "Option_3": "তথ্য সংগ্রহের ক্ষমতা",
     "Option_4": "তথ্য সংশোধন ক্ষমতা",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -5503,7 +5503,7 @@
     "Option_2": "নানা আকৃতির তবে ক্ষমতা এক",
     "Option_3": "নানা আকৃতির এবং দুই রঙের",
     "Option_4": "আকৃতি একই রকম তবে ক্ষমতা ভিন্ন",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -5683,7 +5683,7 @@
     "Option_2": "৫০০ মেগাবাইট থেকে ৪ গিগাবাইট",
     "Option_3": "৪ টেরাবাইট থেকে ৫০০ গিগাবাইট",
     "Option_4": "৪ গিগাবাইট থেকে ৫০০ মেগাবাইট",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -5737,7 +5737,7 @@
     "Option_2": "মেমোরি কার্ড",
     "Option_3": "ডিভিডি",
     "Option_4": "হার্ড ডিক্স",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -5773,7 +5773,7 @@
     "Option_2": "i ও iii",
     "Option_3": "ii ও iii",
     "Option_4": "i, ii ও iii",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -5845,7 +5845,7 @@
     "Option_2": "i ও iii",
     "Option_3": "ii ও iii",
     "Option_4": "i, ii ও iii",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -5863,7 +5863,7 @@
     "Option_2": "i ও iii",
     "Option_3": "ii ও iii",
     "Option_4": "i, ii ও iii",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -5899,7 +5899,7 @@
     "Option_2": "পেনড্রাইভে",
     "Option_3": "র‍্যামে",
     "Option_4": "রমে",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "G-204",
     "Source": ""
   },
@@ -5935,7 +5935,7 @@
     "Option_2": "i ও iii",
     "Option_3": "ii ও iii",
     "Option_4": "i, ii ও iii",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "G-205",
     "Source": ""
   },
@@ -6007,7 +6007,7 @@
     "Option_2": "আন্তঃযোগাযোগ ছাড়াও বিদ্যুৎ প্রবাহ বজায় থাকে",
     "Option_3": "র‍্যাম স্থায়ীভাবে সংযোজিত অবস্থায় থাকে",
     "Option_4": "তার দিয়ে সংযোগ স্থাপন করা থাকে",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -6025,7 +6025,7 @@
     "Option_2": "আউটপুট ডিভাইসের পার্থক্য সৃষ্টিকারী বোর্ড",
     "Option_3": "স্টোরেজ ডিভাইসের পার্থক্য সৃষ্টিকারী",
     "Option_4": "অন্যান্য যন্ত্রপাতি যুক্ত করার পোর্ট",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -6097,7 +6097,7 @@
     "Option_2": "যন্ত্রটি মাদারবোর্ড আবিষ্কারের পরে তৈরি হয়েছে",
     "Option_3": "যন্ত্রটি সিস্টেমবোর্ড ব্যবহার করে তৈরি হয়েছে",
     "Option_4": "যন্ত্রটি লজিকবোর্ড ব্যবহার করে তৈরি হয়েছে",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -6133,7 +6133,7 @@
     "Option_2": "এক্সপানশন স্লট",
     "Option_3": "USB পোর্ট",
     "Option_4": "ROM সহায়ক",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -6277,7 +6277,7 @@
     "Option_2": "i ও iii",
     "Option_3": "ii ও iii",
     "Option_4": "i, ii ও iii",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -6403,7 +6403,7 @@
     "Option_2": "Control Processing Unit",
     "Option_3": "Control Pragram Unit",
     "Option_4": "Central Processing Universal",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -6583,7 +6583,7 @@
     "Option_2": "আউটপুট ডিভাইস",
     "Option_3": "সকল নিয়ন্ত্রণমূলক",
     "Option_4": "তথ্য প্রক্রিয়াকরণের কাজ",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -6655,7 +6655,7 @@
     "Option_2": "২০০২",
     "Option_3": "৮০০৮",
     "Option_4": "৯০০৯",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -6709,7 +6709,7 @@
     "Option_2": "৪",
     "Option_3": "৫",
     "Option_4": "৮",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -6763,7 +6763,7 @@
     "Option_2": "হার্ডডিস্ক",
     "Option_3": "রম",
     "Option_4": "সিডি",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -6853,7 +6853,7 @@
     "Option_2": "১, ২",
     "Option_3": "১, ৩",
     "Option_4": "A, B",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -6871,7 +6871,7 @@
     "Option_2": "তারযুক্ত",
     "Option_3": "ক্যাবলযুক্ত",
     "Option_4": "স্যাটেলাইটযুক্ত",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -6961,7 +6961,7 @@
     "Option_2": "i ও iii",
     "Option_3": "ii ও iii",
     "Option_4": "i, ii ও iii",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -6979,7 +6979,7 @@
     "Option_2": "i ও iii",
     "Option_3": "ii ও iii",
     "Option_4": "i, ii ও iii",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -7033,7 +7033,7 @@
     "Option_2": "i ও iii",
     "Option_3": "ii ও iii",
     "Option_4": "i, ii ও iii",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "G-207",
     "Source": ""
   },
@@ -7051,7 +7051,7 @@
     "Option_2": "গ্রাফিক্সকার্ড",
     "Option_3": "ওয়েব ক্যাম",
     "Option_4": "মাইক্রোফোন",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -7159,7 +7159,7 @@
     "Option_2": "গান শোনানো",
     "Option_3": "টাইপ করা",
     "Option_4": "প্রিন্ট করা",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -7195,7 +7195,7 @@
     "Option_2": "সাউন্ড কার্ড",
     "Option_3": "মেমোরি কার্ড",
     "Option_4": "র‍্যাম স্লট",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -7375,7 +7375,7 @@
     "Option_2": "সাউন্ড কার্ড",
     "Option_3": "মাইক্রোফোন",
     "Option_4": "ওয়েব ক্যাম",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -7465,7 +7465,7 @@
     "Option_2": "সাউন্ড কার্ড",
     "Option_3": "নিক কার্ড",
     "Option_4": "বাস কার্ড",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -7483,7 +7483,7 @@
     "Option_2": "i ও iii",
     "Option_3": "ii ও iii",
     "Option_4": "i, ii ও iii",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -7501,7 +7501,7 @@
     "Option_2": "i ও iii",
     "Option_3": "ii ও iii",
     "Option_4": "i, ii ও iii",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -7555,7 +7555,7 @@
     "Option_2": "i ও iii",
     "Option_3": "ii ও iii",
     "Option_4": "i, ii ও iii",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -7573,7 +7573,7 @@
     "Option_2": "i ও iii",
     "Option_3": "ii ও iii",
     "Option_4": "i, ii ও iii",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -7663,7 +7663,7 @@
     "Option_2": "এলসিডি মনিটর",
     "Option_3": "এলইডি মনিটর",
     "Option_4": "টাচস্ক্রিন মনিটর",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -7897,7 +7897,7 @@
     "Option_2": "i ও iii",
     "Option_3": "ii ও iii",
     "Option_4": "i, ii ও iii",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -7933,7 +7933,7 @@
     "Option_2": "i ও iii",
     "Option_3": "ii ও iii",
     "Option_4": "i, ii ও iii",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -7951,7 +7951,7 @@
     "Option_2": "i ও iii",
     "Option_3": "ii ও iii",
     "Option_4": "i, ii ও iii",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -7969,7 +7969,7 @@
     "Option_2": "i ও iii",
     "Option_3": "ii ও iii",
     "Option_4": "i, ii ও iii",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -8059,7 +8059,7 @@
     "Option_2": "i ও iii",
     "Option_3": "ii ও iii",
     "Option_4": "i, ii ও iii",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "G-209",
     "Source": ""
   },
@@ -8077,7 +8077,7 @@
     "Option_2": "গ্রাফিক্স কার্ড",
     "Option_3": "মেমোরি কার্ড",
     "Option_4": "ওয়েব ক্যাম",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -8239,7 +8239,7 @@
     "Option_2": "লেখালেখির",
     "Option_3": "হিসাব-নিকাশ",
     "Option_4": "গণনার কাজ",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -8311,7 +8311,7 @@
     "Option_2": "দুই হাজার থেকে তিন হাজার লুমেন্সের",
     "Option_3": "এক হাজার থেকে চার হাজার লুমেন্সের",
     "Option_4": "দুই হাজার থেকে চার হাজার লুমেন্সের",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -8365,7 +8365,7 @@
     "Option_2": "i ও iii",
     "Option_3": "ii ও iii",
     "Option_4": "i, ii ও iii",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -8401,7 +8401,7 @@
     "Option_2": "i ও iii",
     "Option_3": "ii ও iii",
     "Option_4": "i, ii ও iii",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -8473,7 +8473,7 @@
     "Option_2": "শোয়ার ঘর",
     "Option_3": "খাবার ঘর",
     "Option_4": "পড়ার ঘর",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -8509,7 +8509,7 @@
     "Option_2": "কম্পিউটারে দক্ষ হতে পারে",
     "Option_3": "লেখাপড়ায় ভালো হতে পারে",
     "Option_4": "জ্ঞান-বিজ্ঞানে উন্নতি করতে পারে",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -8545,7 +8545,7 @@
     "Option_2": "i ও iii",
     "Option_3": "ii ও iii",
     "Option_4": "i, ii ও iii",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "G-301",
     "Source": ""
   },
@@ -8599,7 +8599,7 @@
     "Option_2": "ছবি দেখা",
     "Option_3": "ইন্টারনেট ব্যবহার করা",
     "Option_4": "নিয়োগ বিজ্ঞপ্তি দেখা",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -8671,7 +8671,7 @@
     "Option_2": "৪",
     "Option_3": "৫",
     "Option_4": "৭",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -8689,7 +8689,7 @@
     "Option_2": "ক্ষতি করার জন্য",
     "Option_3": "অশালীন হওয়ার জন্য",
     "Option_4": "রূঢ় হওয়ার জন্য",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -8815,7 +8815,7 @@
     "Option_2": "অঅনুমোদিত ওয়েবসাইট",
     "Option_3": "অন্যের ওয়েবসাইট",
     "Option_4": "ভাইরাস আক্রান্ত ওয়েবসাইট",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -8869,7 +8869,7 @@
     "Option_2": "i ও iii",
     "Option_3": "ii ও iii",
     "Option_4": "i, ii ও iii",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -9481,7 +9481,7 @@
     "Option_2": "মেইনবুক",
     "Option_3": "ক্লাশবুক",
     "Option_4": "মূলবুক",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -9805,7 +9805,7 @@
     "Option_2": "i ও iii",
     "Option_3": "ii ও iii",
     "Option_4": "i, ii ও iii",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -9931,7 +9931,7 @@
     "Option_2": "তিন",
     "Option_3": "চার",
     "Option_4": "পাঁচ",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -10165,7 +10165,7 @@
     "Option_2": "অনন্য সাধারণ",
     "Option_3": "সৃষ্টি সাধারণ",
     "Option_4": "মুক্ত দর্শন",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -10255,7 +10255,7 @@
     "Option_2": "ক্লোজ সোর্স সফটওয়্যার",
     "Option_3": "কাস্টমাইজ সফটওয়্যার",
     "Option_4": "ফেয়ার সফটওয়্যার",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -10291,7 +10291,7 @@
     "Option_2": "সৃজনী সাধারণ",
     "Option_3": "ক্রিয়েটিভ কমন্স",
     "Option_4": "ফেয়ার ইউজ",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -10309,7 +10309,7 @@
     "Option_2": "i ও iii",
     "Option_3": "ii ও iii",
     "Option_4": "i, ii ও iii",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -10327,7 +10327,7 @@
     "Option_2": "i ও iii",
     "Option_3": "ii ও iii",
     "Option_4": "i, ii ও iii",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -10345,7 +10345,7 @@
     "Option_2": "i ও iii",
     "Option_3": "ii ও iii",
     "Option_4": "i, ii ও iii",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -10435,7 +10435,7 @@
     "Option_2": "i ও iii",
     "Option_3": "ii ও iii",
     "Option_4": "i, ii ও iii",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -10543,7 +10543,7 @@
     "Option_2": "Red hat hacker",
     "Option_3": "Black hat hacker",
     "Option_4": "Blue hat hacker",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -10633,7 +10633,7 @@
     "Option_2": "২০ বছর",
     "Option_3": "২১ বছর",
     "Option_4": "২২ বছর",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -10723,7 +10723,7 @@
     "Option_2": "একাধিক নম্বর ব্যবহার করে",
     "Option_3": "মানুষকে প্রতারণা করে ধোঁকা দিয়ে",
     "Option_4": "মানুষকে সত্য কথা বলে",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -10831,7 +10831,7 @@
     "Option_2": "২০০০ সালে",
     "Option_3": "২০০১ সালে",
     "Option_4": "২০০২ সালে",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -10849,7 +10849,7 @@
     "Option_2": "মেনিন",
     "Option_3": "নেনিসা",
     "Option_4": "মোলিসা",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -10921,7 +10921,7 @@
     "Option_2": "রাশিয়া",
     "Option_3": "চীন",
     "Option_4": "জাপান",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -11029,7 +11029,7 @@
     "Option_2": "i ও iii",
     "Option_3": "ii ও iii",
     "Option_4": "i, ii ও iii",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -11047,7 +11047,7 @@
     "Option_2": "i ও iii",
     "Option_3": "ii ও iii",
     "Option_4": "i, ii ও iii",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -11083,7 +11083,7 @@
     "Option_2": "i ও iii",
     "Option_3": "ii ও iii",
     "Option_4": "i, ii ও iii",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -11101,7 +11101,7 @@
     "Option_2": "i ও iii",
     "Option_3": "ii ও iii",
     "Option_4": "i, ii ও iii",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -11119,7 +11119,7 @@
     "Option_2": "i ও iii",
     "Option_3": "ii ও iii",
     "Option_4": "i, ii ও iii",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -11173,7 +11173,7 @@
     "Option_2": "i ও iii",
     "Option_3": "ii ও iii",
     "Option_4": "i, ii ও iii",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -11227,7 +11227,7 @@
     "Option_2": "i ও iii",
     "Option_3": "ii ও iii",
     "Option_4": "i, ii ও iii",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -11263,7 +11263,7 @@
     "Option_2": "i ও iii",
     "Option_3": "ii ও iii",
     "Option_4": "i, ii ও iii",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -11317,7 +11317,7 @@
     "Option_2": "i ও iii",
     "Option_3": "ii ও iii",
     "Option_4": "i, ii ও iii",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -11371,7 +11371,7 @@
     "Option_2": "হার্ডওয়্যার",
     "Option_3": "এন্টি-ভাইরাস",
     "Option_4": "ম্যালওয়্যার",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "G-306",
     "Source": ""
   },
@@ -11569,7 +11569,7 @@
     "Option_2": "মাউস",
     "Option_3": "মনিটর",
     "Option_4": "স্ক্যানার",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -11587,7 +11587,7 @@
     "Option_2": "স্ক্যানার",
     "Option_3": "মাউস",
     "Option_4": "ওসিআর",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -11623,7 +11623,7 @@
     "Option_2": "১৯৬৭",
     "Option_3": "১৯৭১",
     "Option_4": "১৯৮৫",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -11641,7 +11641,7 @@
     "Option_2": "বাংলা সফটওয়্যার",
     "Option_3": "ইংরেজি কী-বোর্ড",
     "Option_4": "ইংরেজি সফটওয়্যার",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -11785,7 +11785,7 @@
     "Option_2": "IgUNgB",
     "Option_3": "jgUN",
     "Option_4": "qgO",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -11893,7 +11893,7 @@
     "Option_2": "এর সহজতর বাংলা টাইপিং ব্যবস্থার কারণে",
     "Option_3": "এর সহজতর ইংরেজি বাংলা টাইপিং ব্যবস্থার কারণে",
     "Option_4": "এর মূল্য সবার ক্রয় ক্ষমতার মধ্যে থাকার কারণে",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -11929,7 +11929,7 @@
     "Option_2": "Akaash",
     "Option_3": "NikoshBAN",
     "Option_4": "AlbertusMT",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -11983,7 +11983,7 @@
     "Option_2": "রাইট এ্যারো",
     "Option_3": "আপ এ্যারো",
     "Option_4": "ডাউন এ্যারো",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -12001,7 +12001,7 @@
     "Option_2": "Shift + ←",
     "Option_3": "Shift + ↑",
     "Option_4": "Shift + ↓",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -12019,7 +12019,7 @@
     "Option_2": "Ctrl এবং C একসাথে চাপতে হবে",
     "Option_3": "Ctrl এবং V একসাথে চাপতে হবে",
     "Option_4": "Shift চেপে ধরে ডান অ্যারো কি চাপতে হবে",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -12073,7 +12073,7 @@
     "Option_2": "কপি",
     "Option_3": "পেস্ট",
     "Option_4": "ফরমেট",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -12127,7 +12127,7 @@
     "Option_2": "সংরক্ষণ করার জন্য",
     "Option_3": "অনুলিপি তৈরি করার জন্য",
     "Option_4": "মেইল করার জন্য",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -12451,7 +12451,7 @@
     "Option_2": "Alt + U",
     "Option_3": "Shift + U",
     "Option_4": "Ctrl + V",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -12487,7 +12487,7 @@
     "Option_2": "মাই ডস",
     "Option_3": "মাই কম্পিউটার",
     "Option_4": "মাই ফোল্ডার",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -12541,7 +12541,7 @@
     "Option_2": "jgn",
     "Option_3": "jgk",
     "Option_4": "jgl",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -12595,7 +12595,7 @@
     "Option_2": "মজিলা ফায়ারফক্স",
     "Option_3": "অপেরা মিনি",
     "Option_4": "ওয়ার্ড অ্যালাইন",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -12631,7 +12631,7 @@
     "Option_2": "বিজয়",
     "Option_3": "অপ্টিমা",
     "Option_4": "প্রবর্তনা",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -12667,7 +12667,7 @@
     "Option_2": "কপি করতে",
     "Option_3": "ইটালিক করতে",
     "Option_4": "বোল্ড করতে",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -12703,7 +12703,7 @@
     "Option_2": "১৮৬৫",
     "Option_3": "১০৮০",
     "Option_4": "১৯৭১",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -12757,7 +12757,7 @@
     "Option_2": "F5",
     "Option_3": "F12",
     "Option_4": "Enter",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -12793,7 +12793,7 @@
     "Option_2": "সংশোধন",
     "Option_3": "সম্পাদনা",
     "Option_4": "সংরক্ষণ",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -12847,7 +12847,7 @@
     "Option_2": "Sutonny MJ",
     "Option_3": "Sutonny AMG",
     "Option_4": "Arial",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -12883,7 +12883,7 @@
     "Option_2": "এডবি ফটোশপ",
     "Option_3": "মাইক্রোসফট পাওয়ার পয়েন্ট",
     "Option_4": "মজিলা ফায়ারফক্স",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -12955,7 +12955,7 @@
     "Option_2": "Ctrl + [",
     "Option_3": "Ctrl + HOME",
     "Option_4": "Ctrl + B",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -12973,7 +12973,7 @@
     "Option_2": "আয়তন",
     "Option_3": "ডকুমেন্ট ভিত্তিতে",
     "Option_4": "ইচ্ছামাফিক",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -12991,7 +12991,7 @@
     "Option_2": "কাট ও কপি",
     "Option_3": "গ কপি ও পেস্ট",
     "Option_4": "ঘ পেস্ট ও কাট",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -13099,7 +13099,7 @@
     "Option_2": "ii ও iii",
     "Option_3": "i ও iii",
     "Option_4": "i, ii ও iii",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -13171,7 +13171,7 @@
     "Option_2": "ii ও iii",
     "Option_3": "i ও iii",
     "Option_4": "i, ii ও iii",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -13243,7 +13243,7 @@
     "Option_2": "ii ও iii",
     "Option_3": "i ও iii",
     "Option_4": "i, ii ও iii",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -13261,7 +13261,7 @@
     "Option_2": "ii ও iii",
     "Option_3": "i ও iii",
     "Option_4": "i, ii ও iii",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -13351,7 +13351,7 @@
     "Option_2": "i ও ii",
     "Option_3": "ii ও iii",
     "Option_4": "i, ii ও iii",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -13405,7 +13405,7 @@
     "Option_2": "i ও iii",
     "Option_3": "ii ও iii",
     "Option_4": "i, ii ও iii",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -13423,7 +13423,7 @@
     "Option_2": "i ও iii",
     "Option_3": "ii ও iii",
     "Option_4": "i, ii ও iii",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -13513,7 +13513,7 @@
     "Option_2": "i ও iii",
     "Option_3": "ii ও iii",
     "Option_4": "i, ii ও iii",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -13531,7 +13531,7 @@
     "Option_2": "ii ও iii",
     "Option_3": "i ও iii",
     "Option_4": "i, ii ও iii",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -13567,7 +13567,7 @@
     "Option_2": "i ও iii",
     "Option_3": "ii ও iii",
     "Option_4": "i, ii ও iii",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -13621,7 +13621,7 @@
     "Option_2": "ii ও iii",
     "Option_3": "i ও iii",
     "Option_4": "i, ii ও iii",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -13639,7 +13639,7 @@
     "Option_2": "ii ও iii",
     "Option_3": "i ও iii",
     "Option_4": "i, ii ও iii",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -13711,7 +13711,7 @@
     "Option_2": "i ও iii",
     "Option_3": "ii ও iii",
     "Option_4": "i, ii ও iii",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -13819,7 +13819,7 @@
     "Option_2": "ii ও iii",
     "Option_3": "i ও iii",
     "Option_4": "i, ii ও iii",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "G-404",
     "Source": ""
   },
@@ -13837,7 +13837,7 @@
     "Option_2": "IgYugI",
     "Option_3": "jgn",
     "Option_4": "NgB",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "G-404",
     "Source": ""
   },
@@ -13999,7 +13999,7 @@
     "Option_2": "IgY",
     "Option_3": "Ugl",
     "Option_4": "jgN",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "G-409",
     "Source": ""
   },
@@ -14017,7 +14017,7 @@
     "Option_2": "ii ও iii",
     "Option_3": "i ও iii",
     "Option_4": "i, ii ও iii",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "G-409",
     "Source": ""
   },
@@ -14035,7 +14035,7 @@
     "Option_2": "মজিলা ফায়ারফক্স",
     "Option_3": "অপেরা মিনি",
     "Option_4": "ওয়ার্ড অ্যালাইন",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "G-410",
     "Source": ""
   },
@@ -14071,7 +14071,7 @@
     "Option_2": "ii",
     "Option_3": "iii",
     "Option_4": "i, ii ও iii",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "G-410",
     "Source": ""
   },
@@ -14233,7 +14233,7 @@
     "Option_2": "ইন্টারনেট বুক",
     "Option_3": "এনসিটিবি বুক",
     "Option_4": "ডিজিটাল বুক",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -14305,7 +14305,7 @@
     "Option_2": "NBTC",
     "Option_3": "NBCT",
     "Option_4": "NTCB",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -14485,7 +14485,7 @@
     "Option_2": "i ও ii",
     "Option_3": "ii ও iii",
     "Option_4": "i, ii ও iii",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -14791,7 +14791,7 @@
     "Option_2": "পত্রপত্রিকা",
     "Option_3": "টেলিভিশন",
     "Option_4": "রেডিও",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -14863,7 +14863,7 @@
     "Option_2": "কম্পিউটার",
     "Option_3": "ছাত্রছাত্রী",
     "Option_4": "কর্তৃপক্ষ",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -15007,7 +15007,7 @@
     "Option_2": "ফ্যাক্সের",
     "Option_3": "টেলিস্কোপের",
     "Option_4": "পত্রপত্রিকার",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -15061,7 +15061,7 @@
     "Option_2": "i ও iii",
     "Option_3": "ii ও iii",
     "Option_4": "i, ii ও iii",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -15097,7 +15097,7 @@
     "Option_2": "i ও iii",
     "Option_3": "ii ও iii",
     "Option_4": "i, ii ও iii",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -15385,7 +15385,7 @@
     "Option_2": "কলেজ পর্যায়ের সব পাঠ্যপুস্তক",
     "Option_3": "বিশ্ববিদ্যালয় পর্যায়ের সব পাঠ্যপুস্তক",
     "Option_4": "স্কুল ও কলেজ পর্যায়ের পাঠ্যপুস্তক",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -15439,7 +15439,7 @@
     "Option_2": "www.Student.bd.com",
     "Option_3": "www.youtube.com",
     "Option_4": "www.alison.com",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -15475,7 +15475,7 @@
     "Option_2": "ওয়েবসাইটের সাথে চুক্তি করা",
     "Option_3": "কর্তৃপক্ষের শরণাপন্ন হওয়া",
     "Option_4": "শিক্ষা মন্ত্রণালয়ের সাইটে খোঁজা",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -15547,7 +15547,7 @@
     "Option_2": "ইন্টারনেট বুক",
     "Option_3": "এনসিটিবি বুক",
     "Option_4": "ম্যাগাজিন",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -15637,7 +15637,7 @@
     "Option_2": "খান একাডেমি",
     "Option_3": "ইউটিউব",
     "Option_4": "বিবিসি জানালা",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -15799,7 +15799,7 @@
     "Option_2": "বিনোদন সাইট",
     "Option_3": "বিজ্ঞাপন সংস্থা",
     "Option_4": "একাডেমি কেয়ার",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -15817,7 +15817,7 @@
     "Option_2": "আমেরিকা",
     "Option_3": "ব্রাজিল",
     "Option_4": "অস্ট্রেলিয়া",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -15907,7 +15907,7 @@
     "Option_2": "khanacademy.org",
     "Option_3": "en.wikipedia.org",
     "Option_4": "bn.wikipedia.org",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -15961,7 +15961,7 @@
     "Option_2": "learningscience.org",
     "Option_3": "moedu.gov.bd",
     "Option_4": "ebook.gov.bd",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -15979,7 +15979,7 @@
     "Option_2": "matholympiad.org.bd",
     "Option_3": "moedu.gov.bd",
     "Option_4": "ebook.gov.bd",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -16159,7 +16159,7 @@
     "Option_2": "i ও iii",
     "Option_3": "ii ও iii",
     "Option_4": "i, ii ও iii",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -16375,7 +16375,7 @@
     "Option_2": "i ও iii",
     "Option_3": "ii ও iii",
     "Option_4": "i, ii ও iii",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
@@ -16411,7 +16411,7 @@
     "Option_2": "i ও iii",
     "Option_3": "ii ও iii",
     "Option_4": "i, ii ও iii",
-    "Correct_Answer": "",
+    "Correct_Answer": 0,
     "Group_ID": "",
     "Source": ""
   },
